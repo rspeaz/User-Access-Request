@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="f3219c861bf0b9107bd542addc4bcb03" sys_domain="global" table="x_geml_user_access_uar_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>0</position>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-22 21:26:33</sys_created_on>
+            <sys_id>b7219c861bf0b9107bd542addc4bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_geml_user_access_uar_task" sys_domain="global" view="Default view">f3219c861bf0b9107bd542addc4bcb03</sys_ui_section>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-22 21:26:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-22 21:26:33</sys_created_on>
+            <sys_id>bb219c861bf0b9107bd542addc4bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_geml_user_access_uar_task" sys_domain="global" view="Default view">f3219c861bf0b9107bd542addc4bcb03</sys_ui_section>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-22 21:26:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>2</position>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-22 21:26:33</sys_created_on>
+            <sys_id>b3219c861bf0b9107bd542addc4bcb04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_geml_user_access_uar_task" sys_domain="global" view="Default view">f3219c861bf0b9107bd542addc4bcb03</sys_ui_section>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-22 21:26:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_geml_user_access_uar_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-22 21:26:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>f3219c861bf0b9107bd542addc4bcb03</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_geml_user_access_uar_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+            <sys_update_name>sys_ui_section_f3219c861bf0b9107bd542addc4bcb03</sys_update_name>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-22 21:26:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</application>
+        <file_path/>
+        <instance_id>13972a0b6f2869004c327b2f5d3ee410</instance_id>
+        <instance_name>neogenomicsdev</instance_name>
+        <name>sys_ui_section_f3219c861bf0b9107bd542addc4bcb03</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="f3219c861bf0b9107bd542addc4bcb03" sys_domain="global" table="x_geml_user_access_uar_task" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>watch_list</element><position>0</position><sys_created_by>admin.robert</sys_created_by><sys_created_on>2023-08-22 21:26:33</sys_created_on><sys_id>b7219c861bf0b9107bd542addc4bcb04</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_geml_user_access_uar_task" sys_domain="global" view="Default view">f3219c861bf0b9107bd542addc4bcb03</sys_ui_section><sys_updated_by>admin.robert</sys_updated_by><sys_updated_on>2023-08-22 21:26:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin.robert</sys_created_by><sys_created_on>2023-08-22 21:26:33</sys_created_on><sys_id>bb219c861bf0b9107bd542addc4bcb04</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_geml_user_access_uar_task" sys_domain="global" view="Default view">f3219c861bf0b9107bd542addc4bcb03</sys_ui_section><sys_updated_by>admin.robert</sys_updated_by><sys_updated_on>2023-08-22 21:26:33</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes_list</element><position>2</position><sys_created_by>admin.robert</sys_created_by><sys_created_on>2023-08-22 21:26:33</sys_created_on><sys_id>b3219c861bf0b9107bd542addc4bcb04</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_geml_user_access_uar_task" sys_domain="global" view="Default view">f3219c861bf0b9107bd542addc4bcb03</sys_ui_section><sys_updated_by>admin.robert</sys_updated_by><sys_updated_on>2023-08-22 21:26:33</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_geml_user_access_uar_task</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin.robert</sys_created_by><sys_created_on>2023-08-22 21:26:33</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>f3219c861bf0b9107bd542addc4bcb03</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_geml_user_access_uar_task</sys_name><sys_overrides/><sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope><sys_update_name>sys_ui_section_f3219c861bf0b9107bd542addc4bcb03</sys_update_name><sys_updated_by>admin.robert</sys_updated_by><sys_updated_on>2023-08-22 21:26:33</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-241077389</payload_hash>
+        <record_name>UAR Task</record_name>
+        <reverted_from/>
+        <source>bbea84421bf0b9107bd542addc4bcb15</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-22 21:26:33</sys_created_on>
+        <sys_id>b7219c861bf0b9107bd542addc4bcb06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a1f24659f0000001</sys_recorded_at>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-22 21:26:33</sys_updated_on>
+        <type>Form Layout</type>
+        <u_link>[code]&lt;a title="sys_ui_section_f3219c861bf0b9107bd542addc4bcb03" class="linked" href="sys_ui_section.do?sys_id=f3219c861bf0b9107bd542addc4bcb03"&gt;sys_ui_section_f3219c861bf0b9107bd542addc4bcb03&lt;/a&gt;[/code]</u_link>
+        <update_guid>33219c864ff0b910060d9ad176a36206</update_guid>
+        <update_guid_history>33219c864ff0b910060d9ad176a36206:-241077389</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-23 00:04:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>137ec90b544642809098dce3bbadc400</sys_id>
+        <sys_metadata>f3219c861bf0b9107bd542addc4bcb03</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_parent display_value="UAR Task">ab9094861bf0b9107bd542addc4bcb3d</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_scope_delete display_value="">3d979570633443ec90f87b3281da18e9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f3219c861bf0b9107bd542addc4bcb03</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f3219c861bf0b9107bd542addc4bcb03">b7219c861bf0b9107bd542addc4bcb06</sys_update_version>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-23 00:04:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

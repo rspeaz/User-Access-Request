@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <breakdown_source/>
+        <color>#292222</color>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>User Access Request</name>
+        <no_tabs>false</no_tabs>
+        <order/>
+        <owner display_value="Robert Spencer (admin.robert)">9861aaf41be701900184a827bc4bcb90</owner>
+        <restrict_to_roles>x_geml_user_access.grc_uar,admin,itil</restrict_to_roles>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-22 23:37:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>441fa8ce1b34b9107bd542addc4bcb83</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>User Access Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name>pa_dashboards_441fa8ce1b34b9107bd542addc4bcb83</sys_update_name>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-23 00:23:19</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+</record_update>

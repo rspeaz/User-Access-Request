@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="426dccc21bf0b9107bd542addc4bcb11" extends="task" label="User Access Request UAR" max_length="40" name="x_geml_user_access_user_access_request_uar" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="GRC evaluation" max_length="40" name="grc_evaluation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Client SFTP request" value="client_sftp_request"/>
+                <element inactive_on_update="false" label="Client SFTP review" value="client_sftp_review"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request type" mandatory="true" max_length="40" name="request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Client Onside Audit" value="client_onside_audit"/>
+                <element inactive_on_update="false" label="Contract Review" value="contract_review"/>
+                <element inactive_on_update="false" label="Device Integrity" value="device_integrity"/>
+                <element inactive_on_update="false" label="Investigation Request" value="investigation_request"/>
+                <element inactive_on_update="false" label="Lost Device" value="lost_device"/>
+                <element inactive_on_update="false" label="Open CAPA" value="open_capa"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
+                <element inactive_on_update="false" label="Questionnaire" value="questionnaire"/>
+                <element inactive_on_update="false" label="Risk Assessment Request" value="risk_assessment_request"/>
+                <element inactive_on_update="false" label="Risk Register" value="risk_register"/>
+                <element inactive_on_update="false" label="Sev 1 Report" value="sev_1_report"/>
+                <element inactive_on_update="false" label="SOP Update" value="sop_update"/>
+                <element inactive_on_update="false" label="Vendor Data Issue" value="vendor_data_issue"/>
+                <element inactive_on_update="false" label="Vendor Issue" value="vendor_issue"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Salesforce contract number" max_length="40" name="salesforce_contract_number" type="string"/>
+    </element>
+</database>

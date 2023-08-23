@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Management Basics" source="com.snc.service">b1520a712bf42100c7276ab3e4da1523</dependency>
+        <min_version/>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-22 21:10:02</sys_created_on>
+        <sys_id>066dccc21bf0b9107bd542addc4bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-22 21:10:02</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
