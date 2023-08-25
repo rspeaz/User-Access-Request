@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="426dccc21bf0b9107bd542addc4bcb11" extends="task" label="User Access Request UAR" max_length="40" name="x_geml_user_access_user_access_request_uar" type="collection">
+    <element audit="true" db_object_id="426dccc21bf0b9107bd542addc4bcb11" extends="task" label="User Access Review UAR" max_length="40" name="x_geml_user_access_user_access_request_uar" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="GRC evaluation" max_length="40" name="grc_evaluation" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Client SFTP request" value="client_sftp_request"/>

@@ -27,8 +27,8 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>25e174821b74b9107bd542addc4bcbf4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>User Access Request Overview</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>User Access Overview</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
@@ -36,9 +36,9 @@
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_app_module_25e174821b74b9107bd542addc4bcbf4</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-22 23:50:05</sys_updated_on>
+        <sys_updated_on>2023-08-24 14:51:17</sys_updated_on>
         <timeline_page/>
-        <title>User Access Request Overview</title>
+        <title>User Access Overview</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

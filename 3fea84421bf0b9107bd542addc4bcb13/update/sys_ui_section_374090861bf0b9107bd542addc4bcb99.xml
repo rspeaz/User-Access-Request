@@ -4,13 +4,13 @@
             <element>watch_list</element>
             <position>0</position>
             <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-23 00:55:34</sys_created_on>
-            <sys_id>f10189821bb4b9107bd542addc4bcb41</sys_id>
+            <sys_created_on>2023-08-24 22:13:47</sys_created_on>
+            <sys_id>df2fa2e61b343d107bd542addc4bcb6c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">374090861bf0b9107bd542addc4bcb99</sys_ui_section>
             <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-23 00:55:34</sys_updated_on>
+            <sys_updated_on>2023-08-24 22:13:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,69 +18,55 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-23 00:55:34</sys_created_on>
-            <sys_id>f50189821bb4b9107bd542addc4bcb41</sys_id>
+            <sys_created_on>2023-08-24 22:13:47</sys_created_on>
+            <sys_id>d32fa2e61b343d107bd542addc4bcb6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">374090861bf0b9107bd542addc4bcb99</sys_ui_section>
             <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-23 00:55:34</sys_updated_on>
+            <sys_updated_on>2023-08-24 22:13:47</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes_list</element>
+            <element>.end_split</element>
             <position>2</position>
             <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-23 00:55:34</sys_created_on>
-            <sys_id>f90189821bb4b9107bd542addc4bcb41</sys_id>
+            <sys_created_on>2023-08-24 22:13:47</sys_created_on>
+            <sys_id>d72fa2e61b343d107bd542addc4bcb6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">374090861bf0b9107bd542addc4bcb99</sys_ui_section>
             <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-23 00:55:34</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>3</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-23 00:55:34</sys_created_on>
-            <sys_id>fd0189821bb4b9107bd542addc4bcb41</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Notes" display_value="Notes" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">374090861bf0b9107bd542addc4bcb99</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-23 00:55:34</sys_updated_on>
+            <sys_updated_on>2023-08-24 22:13:47</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-23 00:55:34</sys_created_on>
-            <sys_id>f10189821bb4b9107bd542addc4bcb42</sys_id>
+            <sys_created_on>2023-08-24 22:13:47</sys_created_on>
+            <sys_id>db2fa2e61b343d107bd542addc4bcb6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">374090861bf0b9107bd542addc4bcb99</sys_ui_section>
             <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-23 00:55:34</sys_updated_on>
+            <sys_updated_on>2023-08-24 22:13:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-23 00:55:34</sys_created_on>
-            <sys_id>f50189821bb4b9107bd542addc4bcb42</sys_id>
+            <sys_created_on>2023-08-24 22:13:47</sys_created_on>
+            <sys_id>df2fa2e61b343d107bd542addc4bcb6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="Notes" display_value="Notes" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">374090861bf0b9107bd542addc4bcb99</sys_ui_section>
             <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-23 00:55:34</sys_updated_on>
+            <sys_updated_on>2023-08-24 22:13:47</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -91,7 +77,7 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-22 21:22:43</sys_created_on>
+            <sys_created_on>2023-08-24 22:13:46</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>374090861bf0b9107bd542addc4bcb99</sys_id>
@@ -104,7 +90,7 @@
             <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
             <sys_update_name>sys_ui_section_374090861bf0b9107bd542addc4bcb99</sys_update_name>
             <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-22 21:22:43</sys_updated_on>
+            <sys_updated_on>2023-08-24 22:13:46</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>

@@ -10,9 +10,9 @@
         <copied_from_name/>
         <description>Oracle ERP Quarterly SOX UAR SNOW workflow</description>
         <internal_name>grc__user_access_request</internal_name>
-        <label_cache>[{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.body_text","label":"3 - Send Email➛email➛Body text","reference":"","reference_display":"Body text","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"sys_email","column_name":"body_text"},{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.short_description","label":"9 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"f821074d-2c22-4544-949b-4fd9d79e5fcb.Record.short_description","label":"8 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.short_description","label":"7 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.short_description","label":"6 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.short_description","label":"5 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.short_description","label":"2 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.number","label":"9 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"f821074d-2c22-4544-949b-4fd9d79e5fcb.Record.number","label":"8 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.number","label":"7 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.number","label":"6 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.number","label":"5 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.number","label":"2 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record.number","label":"1 - Create Task➛User Access Request UAR Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_user_access_request_uar","column_name":"number"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message","label":"3 - Send Email➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.body","label":"3 - Send Email➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.direct","label":"3 - Send Email➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"Monthly_1.run_start_time","label":"Trigger - Run Monthly ➛Run Start Time UTC","type":"glide_date_time","base_type":"glide_date_time","attributes":{"test_input_hidden":"true"}},{"name":"bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record","label":"1 - Create Task➛User Access Request UAR Record","reference":"x_geml_user_access_user_access_request_uar","reference_display":"User Access Request UAR","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.active","label":"12➛13➛13➛13➛14➛14➛15➛14➛UAR Task Record➛Active","reference":"","reference_display":"Active","type":"boolean","base_type":"boolean","parent_table_name":"x_geml_user_access_uar_task","column_name":"active"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.active","label":"10➛11➛11➛11➛12➛12➛13➛12➛12➛11➛11➛11➛13➛11➛11➛11➛11➛UAR Task Record➛Active","reference":"","reference_display":"Active","type":"boolean","base_type":"boolean","parent_table_name":"x_geml_user_access_uar_task","column_name":"active"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.active","label":"5➛6➛6➛6➛6➛6➛6➛6➛6➛UAR Task Record➛Active","reference":"","reference_display":"Active","type":"boolean","base_type":"boolean","parent_table_name":"x_geml_user_access_uar_task","column_name":"active"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.active","label":"3➛4➛4➛4➛4➛4➛4➛4➛4➛4➛7➛4➛6➛4➛4➛4➛4➛4➛UAR Task Record➛Active","reference":"","reference_display":"Active","type":"boolean","base_type":"boolean","parent_table_name":"x_geml_user_access_uar_task","column_name":"active"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.body_text","label":"7➛8➛email➛Body text","reference":"","reference_display":"Body text","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"sys_email","column_name":"body_text"},{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.short_description","label":"15➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"f821074d-2c22-4544-949b-4fd9d79e5fcb.Record.short_description","label":"14➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.short_description","label":"10➛11➛11➛11➛12➛12➛13➛12➛12➛11➛11➛11➛13➛11➛11➛11➛11➛11➛9➛10➛9➛10➛11➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.short_description","label":"12➛13➛13➛13➛14➛14➛15➛14➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.short_description","label":"3➛4➛4➛4➛4➛4➛4➛4➛4➛4➛7➛4➛6➛4➛4➛4➛4➛4➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.short_description","label":"5➛6➛6➛6➛6➛6➛6➛6➛6➛5➛5➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.number","label":"15➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"f821074d-2c22-4544-949b-4fd9d79e5fcb.Record.number","label":"14➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.number","label":"10➛11➛11➛11➛12➛12➛13➛12➛12➛11➛11➛11➛13➛11➛11➛11➛11➛11➛9➛10➛9➛10➛11➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.number","label":"12➛13➛13➛13➛14➛14➛15➛14➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.number","label":"3➛4➛4➛4➛4➛4➛4➛4➛4➛4➛7➛4➛6➛4➛4➛4➛4➛4➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.number","label":"5➛6➛6➛6➛6➛6➛6➛6➛6➛5➛5➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record.number","label":"1 - Create Task➛User Access Review UAR Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_user_access_request_uar","column_name":"number"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message","label":"7➛8➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.body","label":"7➛8➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.direct","label":"7➛8➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"Monthly_1.run_start_time","label":"Trigger - Run Monthly ➛Run Start Time UTC","type":"glide_date_time","base_type":"glide_date_time","attributes":{"test_input_hidden":"true"}},{"name":"bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record","label":"1 - Create Task➛User Access Review UAR Record","reference":"x_geml_user_access_user_access_request_uar","reference_display":"User Access Review UAR Record","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.state","label":"15➛UAR Task Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_geml_user_access_uar_task","column_name":"state","choices":[{"image":"","used":false,"reference":false,"label":"Pending","rawLabel":"Pending","selected":false,"missing":false,"value":"-5","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Open","rawLabel":"Open","selected":false,"missing":false,"value":"1","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Work in Progress","rawLabel":"Work in Progress","selected":false,"missing":false,"value":"2","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Closed Complete","rawLabel":"Closed Complete","selected":false,"missing":false,"value":"3","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Closed Incomplete","rawLabel":"Closed Incomplete","selected":false,"missing":false,"value":"4","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Pending Change","rawLabel":"Pending Change","selected":false,"missing":false,"value":"-8","parameters":{"name":"task"}}]}]</label_cache>
         <master_snapshot>9a75a8861b34b9107bd542addc4bcb39</master_snapshot>
-        <name>GRC - User Access Request</name>
+        <name>GRC - User Access Review</name>
         <natlang/>
         <outputs/>
         <pre_compiled>false</pre_compiled>
@@ -22,15 +22,15 @@
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
-        <status>published</status>
+        <status>draft</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 21:28:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>0c9150c61bf0b9107bd542addc4bcb05</sys_id>
-        <sys_mod_count>67</sys_mod_count>
-        <sys_name>GRC - User Access Request</sys_name>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GRC - User Access Review</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
@@ -38,7 +38,7 @@
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_hub_flow_0c9150c61bf0b9107bd542addc4bcb05</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:08</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:45:26</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_variable_value action="delete_multiple" query="document_key=0c9150c61bf0b9107bd542addc4bcb05"/>
@@ -110,7 +110,7 @@
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
         <comment/>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
         <name>Run Once</name>
         <remote_sys_id/>
         <sys_class_name>sys_hub_trigger_instance</sys_class_name>
@@ -118,7 +118,7 @@
         <sys_created_on>2023-08-22 23:03:27</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d357e40a1b34b9107bd542addc4bcbdd</sys_id>
-        <sys_mod_count>58</sys_mod_count>
+        <sys_mod_count>99</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -126,7 +126,7 @@
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:08</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -172,23 +172,23 @@
     <sys_hub_flow_input action="delete_multiple" query="model=0c9150c61bf0b9107bd542addc4bcb05"/>
     <sys_hub_flow_output action="delete_multiple" query="model=0c9150c61bf0b9107bd542addc4bcb05"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=0c9150c61bf0b9107bd542addc4bcb05"/>
-    <sys_hub_action_instance action="delete_multiple" query="flow=0c9150c61bf0b9107bd542addc4bcb05^sys_idNOT IN215745c61bb4b9107bd542addc4bcb09,296d34ce1b74b9107bd542addc4bcb78,816bd48e1bf0b9107bd542addc4bcbfe,856bd48e1bf0b9107bd542addc4bcbf8,896b188e1bf0b9107bd542addc4bcb09,896bd48e1bf0b9107bd542addc4bcbf2,8d6b188e1bf0b9107bd542addc4bcb03,8d6bd48e1bf0b9107bd542addc4bcbec,c16bd48e1bf0b9107bd542addc4bcbde,c56bd48e1bf0b9107bd542addc4bcbe6"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=0c9150c61bf0b9107bd542addc4bcb05^sys_idNOT IN17a3feea1b343d107bd542addc4bcb42,215745c61bb4b9107bd542addc4bcb09,296d34ce1b74b9107bd542addc4bcb78,816bd48e1bf0b9107bd542addc4bcbfe,856bd48e1bf0b9107bd542addc4bcbf8,896b188e1bf0b9107bd542addc4bcb09,896bd48e1bf0b9107bd542addc4bcbf2,8d6b188e1bf0b9107bd542addc4bcb03,8d6bd48e1bf0b9107bd542addc4bcbec,c16bd48e1bf0b9107bd542addc4bcbde,c56bd48e1bf0b9107bd542addc4bcbe6"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
-        <comment/>
+        <comment>Close the parent user access review record</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
-        <order>10</order>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>16</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-08-23 01:23:09</sys_created_on>
+        <sys_created_on>2023-08-24 22:33:27</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>215745c61bb4b9107bd542addc4bcb09</sys_id>
-        <sys_mod_count>106</sys_mod_count>
+        <sys_id>17a3feea1b343d107bd542addc4bcb42</sys_id>
+        <sys_mod_count>42</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -196,7 +196,87 @@
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
+        <ui_id>e5cbf8d9-4fc1-4465-8a42-f736d58df19c</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=17a3feea1b343d107bd542addc4bcb42"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>17a3feea1b343d107bd542addc4bcb42</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:33:27</sys_created_on>
+        <sys_id>5ba3feea1b343d107bd542addc4bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:33:27</sys_updated_on>
+        <value>x_geml_user_access_user_access_request_uar</value>
+        <variable display_value="Table">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=17a3feea1b343d107bd542addc4bcb42"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>17a3feea1b343d107bd542addc4bcb42</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:33:27</sys_created_on>
+        <sys_id>d7a3feea1b343d107bd542addc4bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:33:27</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>17a3feea1b343d107bd542addc4bcb42</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:33:27</sys_created_on>
+        <sys_id>5fa3feea1b343d107bd542addc4bcb43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:33:27</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>17a3feea1b343d107bd542addc4bcb42</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:33:27</sys_created_on>
+        <sys_id>17a3feea1b343d107bd542addc4bcb44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:33:27</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>state={{e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.state}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=17a3feea1b343d107bd542addc4bcb42"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=17a3feea1b343d107bd542addc4bcb42"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
+        <action_type_parent/>
+        <comment>Post a message to the Teams Channel Adaptive Card Development</comment>
+        <display_text/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>17</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-23 01:23:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>215745c61bb4b9107bd542addc4bcb09</sys_id>
+        <sys_mod_count>194</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>47f6b69a-1afe-4193-acd8-7a0195dd9327</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=215745c61bb4b9107bd542addc4bcb09"/>
@@ -208,10 +288,10 @@
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-23 01:23:09</sys_created_on>
         <sys_id>295745c61bb4b9107bd542addc4bcb0c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 01:23:09</sys_updated_on>
-        <value>SNOW Ticket for Quarterly SOX UARs</value>
+        <sys_updated_on>2023-08-24 22:33:27</sys_updated_on>
+        <value>SNOW Ticket for Quarterly SOX UARs Closed</value>
         <variable display_value="Title">f49822431324030039a039ed9344b0bb</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -222,10 +302,10 @@
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-23 01:24:54</sys_created_on>
         <sys_id>5bb7c9c61bb4b9107bd542addc4bcb2b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 01:24:54</sys_updated_on>
-        <value>https://neogenomics.webhook.office.com/webhookb2/3f637721-a6e3-45c2-bf89-3f5d4ea8867e@f75bfca3-0172-486c-b0a6-02ba92e58e36/IncomingWebhook/1f1af59f965544daa9b863463f32fab5/47773396-9461-4e38-a171-6e8028d27c9a</value>
+        <sys_updated_on>2023-08-24 22:19:26</sys_updated_on>
+        <value>https://neogenomics.webhook.office.com/webhookb2/8919bb29-2534-418f-a0fd-92b90c95e6b1@f75bfca3-0172-486c-b0a6-02ba92e58e36/IncomingWebhook/d00cc975963c494daf6773ea7859757d/47773396-9461-4e38-a171-6e8028d27c9a</value>
         <variable display_value="Webhook URL">689822431324030039a039ed9344b088</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -379,15 +459,15 @@ Tasks&lt;br&gt;&lt;b&gt;
         <action_type_parent/>
         <comment/>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
-        <order>4</order>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>8</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-23 00:39:43</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>296d34ce1b74b9107bd542addc4bcb78</sys_id>
-        <sys_mod_count>122</sys_mod_count>
+        <sys_mod_count>210</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -395,7 +475,7 @@ Tasks&lt;br&gt;&lt;b&gt;
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>b087ce24-c816-405b-a0a2-6d555613db48</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=296d34ce1b74b9107bd542addc4bcb78"/>
@@ -464,15 +544,15 @@ Status: {{0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message}}</valu
         <action_type_parent/>
         <comment>Complete Oracle ERP UAR SOX Workbook. IT Security - IAM</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
-        <order>7</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>10➛11</order>
+        <parent_ui_id>f080aae8-f611-4c12-b679-9fc45d0a2f1e</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:09</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>816bd48e1bf0b9107bd542addc4bcbfe</sys_id>
-        <sys_mod_count>162</sys_mod_count>
+        <sys_mod_count>250</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -480,7 +560,7 @@ Status: {{0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message}}</valu
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>f972b4bf-6a55-450b-8bb6-eaaca7114b00</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=816bd48e1bf0b9107bd542addc4bcbfe"/>
@@ -512,6 +592,20 @@ Status: {{0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message}}</valu
         <value/>
         <variable display_value="Field Values">273a6335531003003bf1d9109ec5876b</variable>
     </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>816bd48e1bf0b9107bd542addc4bcbfe</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:29:04</sys_created_on>
+        <sys_id>dba2faaa1b343d107bd542addc4bcb5f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:16</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
+    </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=816bd48e1bf0b9107bd542addc4bcbfe"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>field_values</field>
@@ -539,6 +633,18 @@ Due 3rd week on 3rd month of quarter.^assignment_group={"display":"IT Security -
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
         <value/>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>816bd48e1bf0b9107bd542addc4bcbfe</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:29:04</sys_created_on>
+        <sys_id>57a2faaa1b343d107bd542addc4bcb5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:29:04</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=816bd48e1bf0b9107bd542addc4bcbfe"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=816bd48e1bf0b9107bd542addc4bcbfe"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -548,15 +654,15 @@ Due 3rd week on 3rd month of quarter.^assignment_group={"display":"IT Security -
         <action_type_parent/>
         <comment>Review Completed. Review all UAR comments. IT Security - IAM</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
-        <order>6</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>12➛13</order>
+        <parent_ui_id>fb0d9924-8d86-4737-98b1-97310c6bcdc1</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:09</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>856bd48e1bf0b9107bd542addc4bcbf8</sys_id>
-        <sys_mod_count>162</sys_mod_count>
+        <sys_mod_count>250</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -564,7 +670,7 @@ Due 3rd week on 3rd month of quarter.^assignment_group={"display":"IT Security -
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>c67fab11-f539-47d4-900f-027931cd4dce</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=856bd48e1bf0b9107bd542addc4bcbf8"/>
@@ -581,6 +687,20 @@ Due 3rd week on 3rd month of quarter.^assignment_group={"display":"IT Security -
         <sys_updated_on>2023-08-22 22:36:10</sys_updated_on>
         <value>x_geml_user_access_uar_task</value>
         <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>856bd48e1bf0b9107bd542addc4bcbf8</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-25 17:35:17</sys_created_on>
+        <sys_id>9509be761b707d107bd542addc4bcb1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:17</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -625,6 +745,18 @@ Due 3rd week on 3rd month of quarter.
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
         <value/>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>856bd48e1bf0b9107bd542addc4bcbf8</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-25 17:35:17</sys_created_on>
+        <sys_id>1109be761b707d107bd542addc4bcb1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:17</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=856bd48e1bf0b9107bd542addc4bcbf8"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=856bd48e1bf0b9107bd542addc4bcbf8"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -634,15 +766,15 @@ Due 3rd week on 3rd month of quarter.
         <action_type_parent/>
         <comment>Management Review. UAR Management Review</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
-        <order>9</order>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>15</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:09</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>896b188e1bf0b9107bd542addc4bcb09</sys_id>
-        <sys_mod_count>162</sys_mod_count>
+        <sys_mod_count>250</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -650,7 +782,7 @@ Due 3rd week on 3rd month of quarter.
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>e3a553aa-1c84-4d40-8f16-a74052d7b579</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=896b188e1bf0b9107bd542addc4bcb09"/>
@@ -690,10 +822,10 @@ Due 3rd week on 3rd month of quarter.
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:09</sys_created_on>
         <sys_id>d16b188e1bf0b9107bd542addc4bcb0b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 01:32:13</sys_updated_on>
-        <value>0</value>
+        <sys_updated_on>2023-08-24 22:25:06</sys_updated_on>
+        <value>1</value>
         <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=896b188e1bf0b9107bd542addc4bcb09"/>
@@ -744,15 +876,15 @@ Due 4th week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <action_type_parent/>
         <comment>Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report. IT - Oracle ERP</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
-        <order>5</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>3➛4</order>
+        <parent_ui_id>381b987c-4e9e-4a6e-a7bc-1bf97a0000b0</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:09</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>896bd48e1bf0b9107bd542addc4bcbf2</sys_id>
-        <sys_mod_count>162</sys_mod_count>
+        <sys_mod_count>250</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -760,7 +892,7 @@ Due 4th week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>872e0989-821f-42ee-b805-aafd9d1adff8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=896bd48e1bf0b9107bd542addc4bcbf2"/>
@@ -777,6 +909,20 @@ Due 4th week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <sys_updated_on>2023-08-22 22:36:10</sys_updated_on>
         <value>x_geml_user_access_uar_task</value>
         <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>896bd48e1bf0b9107bd542addc4bcbf2</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:25:06</sys_created_on>
+        <sys_id>45c13a6a1b343d107bd542addc4bcb46</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:47:15</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -819,6 +965,18 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
         <value/>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>896bd48e1bf0b9107bd542addc4bcbf2</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:25:06</sys_created_on>
+        <sys_id>cdc13a6a1b343d107bd542addc4bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:25:06</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=896bd48e1bf0b9107bd542addc4bcbf2"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=896bd48e1bf0b9107bd542addc4bcbf2"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -828,15 +986,15 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <action_type_parent/>
         <comment>QA all tasks and completed Workbook. IT - GRC</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
-        <order>8</order>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>14</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:09</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>8d6b188e1bf0b9107bd542addc4bcb03</sys_id>
-        <sys_mod_count>162</sys_mod_count>
+        <sys_mod_count>250</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -844,7 +1002,7 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>f821074d-2c22-4544-949b-4fd9d79e5fcb</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8d6b188e1bf0b9107bd542addc4bcb03"/>
@@ -870,10 +1028,10 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:42:05</sys_created_on>
         <sys_id>1e72e4061b34b9107bd542addc4bcb40</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 01:32:13</sys_updated_on>
-        <value>0</value>
+        <sys_updated_on>2023-08-24 22:25:06</sys_updated_on>
+        <value>1</value>
         <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -936,17 +1094,17 @@ Due 4th week on 3rd month of quarter.^assignment_group={"display":"IT - GRC","va
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent/>
-        <comment>Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report. IT - Oracle ERP</comment>
+        <comment>Create &amp; Upload Curated Report to include “Neo User Roles and Security Values - Detailed” Report and added columns. IT - Oracle ERP</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
-        <order>2</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>5➛6</order>
+        <parent_ui_id>7d1a5b39-7dae-4e2e-9fa8-d67a6585b44f</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:09</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>8d6bd48e1bf0b9107bd542addc4bcbec</sys_id>
-        <sys_mod_count>162</sys_mod_count>
+        <sys_mod_count>250</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -954,7 +1112,7 @@ Due 4th week on 3rd month of quarter.^assignment_group={"display":"IT - GRC","va
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>5afac8d6-fb81-4074-82a6-84dff6803f3e</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8d6bd48e1bf0b9107bd542addc4bcbec"/>
@@ -971,6 +1129,20 @@ Due 4th week on 3rd month of quarter.^assignment_group={"display":"IT - GRC","va
         <sys_updated_on>2023-08-22 22:36:10</sys_updated_on>
         <value>x_geml_user_access_uar_task</value>
         <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>8d6bd48e1bf0b9107bd542addc4bcbec</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:25:06</sys_created_on>
+        <sys_id>0dc13a6a1b343d107bd542addc4bcb4e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:47:15</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
@@ -993,11 +1165,11 @@ Due 4th week on 3rd month of quarter.^assignment_group={"display":"IT - GRC","va
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:09</sys_created_on>
         <sys_id>816bd48e1bf0b9107bd542addc4bcbee</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-22 22:39:15</sys_updated_on>
+        <sys_updated_on>2023-08-24 22:50:48</sys_updated_on>
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
-        <value>short_description=Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report^description=Include C&amp;A screenshots
+        <value>short_description=Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report^description=Create &amp; Upload Curated Report to include “Neo User Roles and Security Values - Detailed” Report and added columns.
 
 Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle ERP","value":"7bcf0a20877ca1101226dc683cbb350c","sys_id":"7bcf0a20877ca1101226dc683cbb350c"}^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record}}</value>
     </sys_element_mapping>
@@ -1013,6 +1185,18 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
         <value/>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>8d6bd48e1bf0b9107bd542addc4bcbec</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:25:06</sys_created_on>
+        <sys_id>89c13a6a1b343d107bd542addc4bcb4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:25:06</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=8d6bd48e1bf0b9107bd542addc4bcbec"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=8d6bd48e1bf0b9107bd542addc4bcbec"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -1021,15 +1205,15 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <action_type_parent/>
         <comment>Send notification to Oracle ERP Team, Kevin Burke, IAM Team, GRC Team and the reviewers</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
-        <order>3</order>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <order>7</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:08</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>c16bd48e1bf0b9107bd542addc4bcbde</sys_id>
-        <sys_mod_count>162</sys_mod_count>
+        <sys_mod_count>250</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1037,7 +1221,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>0b3b7c42-87ab-41a2-bd6f-37f56bdfb424</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c16bd48e1bf0b9107bd542addc4bcbde"/>
@@ -1108,7 +1292,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <action_type_parent/>
         <comment>Create Parent UAR ticket - IT GRC</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
         <order>1</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
@@ -1116,7 +1300,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_created_on>2023-08-22 22:11:08</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>c56bd48e1bf0b9107bd542addc4bcbe6</sys_id>
-        <sys_mod_count>162</sys_mod_count>
+        <sys_mod_count>250</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1124,7 +1308,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:27</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
         <ui_id>bb886cc7-eb2f-4c06-b93b-aa13d4763071</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c56bd48e1bf0b9107bd542addc4bcbe6"/>
@@ -1136,10 +1320,10 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:11:09</sys_created_on>
         <sys_id>856bd48e1bf0b9107bd542addc4bcbe8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-22 22:11:09</sys_updated_on>
-        <value>short_description=Quarterly SOX UARs^assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}</value>
+        <sys_updated_on>2023-08-24 15:14:17</sys_updated_on>
+        <value>short_description=SOX Quarterly UAR – Oracle ERP^assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}^due_date=fd-scripted</value>
         <variable display_value="Field Values">273a6335531003003bf1d9109ec5876b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1157,10 +1341,251 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759^id=c56bd48e1bf0b9107bd542addc4bcbe6"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=c56bd48e1bf0b9107bd542addc4bcbe6"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=c56bd48e1bf0b9107bd542addc4bcbe6^sys_idNOT INd22f09e21bfcf9107bd542addc4bcbdd"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>field_values</input_name>
+        <instance>c56bd48e1bf0b9107bd542addc4bcbe6</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"due_date":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\nvar now \u003d new GlideDateTime(new GlideDate());\n\nreturn now;","savedValue":""}}</script>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 15:14:17</sys_created_on>
+        <sys_id>d22f09e21bfcf9107bd542addc4bcbdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 15:14:17</sys_updated_on>
+    </sys_hub_input_scripts>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=c56bd48e1bf0b9107bd542addc4bcbe6"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=0c9150c61bf0b9107bd542addc4bcb05"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=0c9150c61bf0b9107bd542addc4bcb05"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=0c9150c61bf0b9107bd542addc4bcb05^sys_idNOT IN0406fa6e1b343d107bd542addc4bcbf9,1c063e6e1b343d107bd542addc4bcb06,8c06fa6e1b343d107bd542addc4bcbf5,94063e6e1b343d107bd542addc4bcb09,9909be761b707d107bd542addc4bcb1a,f798b2761b707d107bd542addc4bcb83"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">4c06fa6e1b343d107bd542addc4bcbf8</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Parallel Branch">a1168de173311300b61e66476bf6a7d0</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>70490ad0-3e60-41dd-8f69-8cf978925715</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:43:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0406fa6e1b343d107bd542addc4bcbf9</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
+        <ui_id>381b987c-4e9e-4a6e-a7bc-1bf97a0000b0</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=0406fa6e1b343d107bd542addc4bcbf9"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=0406fa6e1b343d107bd542addc4bcbf9"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=0406fa6e1b343d107bd542addc4bcbf9"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">54063e6e1b343d107bd542addc4bcb06</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Do the following in Parallel">5d31e5dedfe50300b61ecae83df26326</logic_definition>
+        <order>9</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:43:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1c063e6e1b343d107bd542addc4bcb06</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
+        <ui_id>6e32bc5c-2f37-4b99-8a94-432f2447a75d</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=1c063e6e1b343d107bd542addc4bcb06"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=1c063e6e1b343d107bd542addc4bcb06"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=1c063e6e1b343d107bd542addc4bcb06"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">c006fa6e1b343d107bd542addc4bcbf5</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Do the following in Parallel">5d31e5dedfe50300b61ecae83df26326</logic_definition>
+        <order>2</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:43:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8c06fa6e1b343d107bd542addc4bcbf5</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
+        <ui_id>70490ad0-3e60-41dd-8f69-8cf978925715</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=8c06fa6e1b343d107bd542addc4bcbf5"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=8c06fa6e1b343d107bd542addc4bcbf5"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=8c06fa6e1b343d107bd542addc4bcbf5"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">dc063e6e1b343d107bd542addc4bcb08</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Parallel Branch">a1168de173311300b61e66476bf6a7d0</logic_definition>
+        <order>10</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>6e32bc5c-2f37-4b99-8a94-432f2447a75d</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:43:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>94063e6e1b343d107bd542addc4bcb09</sys_id>
+        <sys_mod_count>22</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
+        <ui_id>f080aae8-f611-4c12-b679-9fc45d0a2f1e</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=94063e6e1b343d107bd542addc4bcb09"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=94063e6e1b343d107bd542addc4bcb09"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=94063e6e1b343d107bd542addc4bcb09"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">1509be761b707d107bd542addc4bcb1a</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Parallel Branch">a1168de173311300b61e66476bf6a7d0</logic_definition>
+        <order>12</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>6e32bc5c-2f37-4b99-8a94-432f2447a75d</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-25 17:35:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9909be761b707d107bd542addc4bcb1a</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
+        <ui_id>fb0d9924-8d86-4737-98b1-97310c6bcdc1</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=9909be761b707d107bd542addc4bcb1a"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=9909be761b707d107bd542addc4bcb1a"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=9909be761b707d107bd542addc4bcb1a"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">7f98b2761b707d107bd542addc4bcb82</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Parallel Branch">a1168de173311300b61e66476bf6a7d0</logic_definition>
+        <order>5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>70490ad0-3e60-41dd-8f69-8cf978925715</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-25 17:33:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f798b2761b707d107bd542addc4bcb83</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:41:14</sys_updated_on>
+        <ui_id>7d1a5b39-7dae-4e2e-9fa8-d67a6585b44f</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=f798b2761b707d107bd542addc4bcb83"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=f798b2761b707d107bd542addc4bcb83"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=f798b2761b707d107bd542addc4bcb83"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=0c9150c61bf0b9107bd542addc4bcb05"/>
     <sys_hub_flow_variable action="delete_multiple" query="model=0c9150c61bf0b9107bd542addc4bcb05"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_0c9150c61bf0b9107bd542addc4bcb05"/>
@@ -1172,14 +1597,14 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"ba75a8861b34b9107bd542addc4bcbb8","name":"plan","plan_signature":null}}</plan>
         <plan_id>0c9150c61bf0b9107bd542addc4bcb05</plan_id>
-        <snapshot>06d5e1c21b38b9107bd542addc4bcb51</snapshot>
+        <snapshot>9a75a8861b34b9107bd542addc4bcb39</snapshot>
         <sys_class_name>sys_flow_trigger_plan</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:13</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>ba75a8861b34b9107bd542addc4bcbb8</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1188,7 +1613,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:08</sys_updated_on>
+        <sys_updated_on>2023-08-24 22:25:18</sys_updated_on>
         <trigger display_value="">fe75a8861b34b9107bd542addc4bcbb5</trigger>
     </sys_flow_trigger_plan>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=0c9150c61bf0b9107bd542addc4bcb05"/>
@@ -1203,12 +1628,12 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <copied_from_name/>
         <description>Oracle ERP Quarterly SOX UAR SNOW workflow</description>
         <internal_name>grc__user_access_request</internal_name>
-        <label_cache>[{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.body_text","label":"3 - Send Email➛email➛Body text","reference":"","reference_display":"Body text","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"sys_email","column_name":"body_text"},{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.short_description","label":"9 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"f821074d-2c22-4544-949b-4fd9d79e5fcb.Record.short_description","label":"8 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.short_description","label":"7 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.short_description","label":"6 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.short_description","label":"5 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.short_description","label":"2 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.number","label":"9 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"f821074d-2c22-4544-949b-4fd9d79e5fcb.Record.number","label":"8 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.number","label":"7 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.number","label":"6 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.number","label":"5 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.number","label":"2 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record.number","label":"1 - Create Task➛User Access Request UAR Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_user_access_request_uar","column_name":"number"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message","label":"3 - Send Email➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.body","label":"3 - Send Email➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.direct","label":"3 - Send Email➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"Monthly_1.run_start_time","label":"Trigger - Run Monthly ➛Run Start Time UTC","type":"glide_date_time","base_type":"glide_date_time","attributes":{"test_input_hidden":"true"}},{"name":"bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record","label":"1 - Create Task➛User Access Request UAR Record","reference":"x_geml_user_access_user_access_request_uar","reference_display":"User Access Request UAR","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.state","label":"17➛UAR Task Record➛Status","reference":"","reference_display":"Status","type":"choice","base_type":"choice","parent_table_name":"x_geml_user_access_uar_task","column_name":"state","choices":[{"image":"","used":false,"reference":false,"label":"Pending","rawLabel":"Pending","selected":false,"missing":false,"value":"-5","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Open","rawLabel":"Open","selected":false,"missing":false,"value":"1","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Work in Progress","rawLabel":"Work in Progress","selected":false,"missing":false,"value":"2","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Closed Complete","rawLabel":"Closed Complete","selected":false,"missing":false,"value":"3","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Closed Incomplete","rawLabel":"Closed Incomplete","selected":false,"missing":false,"value":"4","parameters":{"name":"task"}},{"image":"","used":false,"reference":false,"label":"Pending Change","rawLabel":"Pending Change","selected":false,"missing":false,"value":"-8","parameters":{"name":"task"}}]},{"name":"bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record","label":"1 - Create Task➛User Access Review UAR Record","reference":"x_geml_user_access_user_access_request_uar","reference_display":"User Access Review UAR","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Monthly_1.run_start_time","label":"Trigger - Run Monthly ➛Run Start Time UTC","type":"glide_date_time","base_type":"glide_date_time","attributes":{"test_input_hidden":"true"}},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.direct","label":"8➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.body","label":"8➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message","label":"8➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record.number","label":"1 - Create Task➛User Access Review UAR Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_user_access_request_uar","column_name":"number"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.number","label":"5➛6➛6➛5➛5➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.number","label":"3➛4➛4➛4➛7➛4➛6➛4➛4➛4➛4➛4➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.number","label":"13➛14➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.number","label":"11➛12➛12➛11➛11➛11➛13➛11➛11➛11➛11➛11➛9➛10➛9➛10➛11➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"f821074d-2c22-4544-949b-4fd9d79e5fcb.Record.number","label":"16➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.number","label":"17➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.short_description","label":"5➛6➛6➛5➛5➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.short_description","label":"3➛4➛4➛4➛7➛4➛6➛4➛4➛4➛4➛4➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.short_description","label":"13➛14➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.short_description","label":"11➛12➛12➛11➛11➛11➛13➛11➛11➛11➛11➛11➛9➛10➛9➛10➛11➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"f821074d-2c22-4544-949b-4fd9d79e5fcb.Record.short_description","label":"16➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.short_description","label":"17➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.email.body_text","label":"8➛email➛Body text","reference":"","reference_display":"Body text","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"sys_email","column_name":"body_text"},{"name":"872e0989-821f-42ee-b805-aafd9d1adff8.Record.active","label":"3➛4➛4➛4➛7➛4➛6➛4➛4➛4➛4➛4➛UAR Task Record➛Active","reference":"","reference_display":"Active","type":"boolean","base_type":"boolean","parent_table_name":"x_geml_user_access_uar_task","column_name":"active"},{"name":"5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.active","label":"5➛6➛6➛UAR Task Record➛Active","reference":"","reference_display":"Active","type":"boolean","base_type":"boolean","parent_table_name":"x_geml_user_access_uar_task","column_name":"active"},{"name":"f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.active","label":"11➛12➛12➛11➛11➛11➛13➛11➛11➛11➛11➛UAR Task Record➛Active","reference":"","reference_display":"Active","type":"boolean","base_type":"boolean","parent_table_name":"x_geml_user_access_uar_task","column_name":"active"},{"name":"c67fab11-f539-47d4-900f-027931cd4dce.Record.active","label":"13➛14➛UAR Task Record➛Active","reference":"","reference_display":"Active","type":"boolean","base_type":"boolean","parent_table_name":"x_geml_user_access_uar_task","column_name":"active"}]</label_cache>
         <master>true</master>
-        <name>GRC - User Access Request</name>
+        <name>GRC - User Access Review</name>
         <natlang/>
         <outputs/>
-        <parent_flow display_value="GRC - User Access Request">0c9150c61bf0b9107bd542addc4bcb05</parent_flow>
+        <parent_flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</parent_flow>
         <remote_trigger_id/>
         <run_as>system</run_as>
         <run_with_roles/>
@@ -1220,7 +1645,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>9a75a8861b34b9107bd542addc4bcb39</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>33</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1229,7 +1654,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:07</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_variable_value action="delete_multiple" query="document_key=9a75a8861b34b9107bd542addc4bcb39"/>
@@ -1237,7 +1662,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
         <comment/>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
         <name>Run Once</name>
         <remote_sys_id/>
         <sys_class_name>sys_hub_trigger_instance</sys_class_name>
@@ -1245,7 +1670,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>aa75a8861b34b9107bd542addc4bcb7d</sys_id>
-        <sys_mod_count>62</sys_mod_count>
+        <sys_mod_count>101</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1253,7 +1678,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:08</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:43</sys_updated_on>
         <trigger_definition display_value="Run Once">0a76e504c32222002841b63b12d3aeac</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -1313,7 +1738,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
     <sys_hub_flow_input action="delete_multiple" query="model=9a75a8861b34b9107bd542addc4bcb39"/>
     <sys_hub_flow_output action="delete_multiple" query="model=9a75a8861b34b9107bd542addc4bcb39"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=9a75a8861b34b9107bd542addc4bcb39"/>
-    <sys_hub_action_instance action="delete_multiple" query="flow=9a75a8861b34b9107bd542addc4bcb39^sys_idNOT IN2a75a8861b34b9107bd542addc4bcb6f,2e75a8861b34b9107bd542addc4bcb63,9a75a8861b34b9107bd542addc4bcb43,a675a8861b34b9107bd542addc4bcb4b,a675a8861b34b9107bd542addc4bcb75,aa75a8861b34b9107bd542addc4bcb69,aa75a8861b34b9107bd542addc4bcb7b,ae75a8861b34b9107bd542addc4bcb5d,c1c74dc61bb4b9107bd542addc4bcb6b,df6db4ce1b74b9107bd542addc4bcb29"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=9a75a8861b34b9107bd542addc4bcb39^sys_idNOT IN2a75a8861b34b9107bd542addc4bcb6f,2e75a8861b34b9107bd542addc4bcb63,9a75a8861b34b9107bd542addc4bcb43,a675a8861b34b9107bd542addc4bcb4b,a675a8861b34b9107bd542addc4bcb75,aa75a8861b34b9107bd542addc4bcb69,aa75a8861b34b9107bd542addc4bcb7b,ae75a8861b34b9107bd542addc4bcb5d,c1c74dc61bb4b9107bd542addc4bcb6b,df6db4ce1b74b9107bd542addc4bcb29,f87676ae1b343d107bd542addc4bcbee"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -1321,15 +1746,15 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
         <comment>Complete Oracle ERP UAR SOX Workbook. IT Security - IAM</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
-        <order>7</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>11➛12</order>
+        <parent_ui_id>f080aae8-f611-4c12-b679-9fc45d0a2f1e</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>2a75a8861b34b9107bd542addc4bcb6f</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>136</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1337,10 +1762,24 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>f972b4bf-6a55-450b-8bb6-eaaca7114b00</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2a75a8861b34b9107bd542addc4bcb6f"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2a75a8861b34b9107bd542addc4bcb6f</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:29:13</sys_created_on>
+        <sys_id>91b27eaa1b343d107bd542addc4bcbb9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:40</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
+    </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
         <document_key>2a75a8861b34b9107bd542addc4bcb6f</document_key>
@@ -1382,6 +1821,18 @@ Due 3rd week on 3rd month of quarter.^assignment_group={"display":"IT Security -
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
         <value/>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>2a75a8861b34b9107bd542addc4bcb6f</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:29:13</sys_created_on>
+        <sys_id>11b27eaa1b343d107bd542addc4bcbb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:29:13</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=2a75a8861b34b9107bd542addc4bcb6f"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=2a75a8861b34b9107bd542addc4bcb6f"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -1391,15 +1842,15 @@ Due 3rd week on 3rd month of quarter.^assignment_group={"display":"IT Security -
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
         <comment>Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report. IT - Oracle ERP</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
-        <order>5</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>3➛4</order>
+        <parent_ui_id>381b987c-4e9e-4a6e-a7bc-1bf97a0000b0</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>2e75a8861b34b9107bd542addc4bcb63</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>136</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1407,10 +1858,24 @@ Due 3rd week on 3rd month of quarter.^assignment_group={"display":"IT Security -
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>872e0989-821f-42ee-b805-aafd9d1adff8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=2e75a8861b34b9107bd542addc4bcb63"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2e75a8861b34b9107bd542addc4bcb63</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:25:16</sys_created_on>
+        <sys_id>27c1fa6a1b343d107bd542addc4bcb04</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:47:25</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
+    </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
         <document_key>2e75a8861b34b9107bd542addc4bcb63</document_key>
@@ -1452,6 +1917,18 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
         <value/>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>2e75a8861b34b9107bd542addc4bcb63</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:25:16</sys_created_on>
+        <sys_id>a3c1fa6a1b343d107bd542addc4bcb04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:25:16</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=2e75a8861b34b9107bd542addc4bcb63"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=2e75a8861b34b9107bd542addc4bcb63"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -1460,15 +1937,15 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <comment>Send notification to Oracle ERP Team, Kevin Burke, IAM Team, GRC Team and the reviewers</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
-        <order>3</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>8</order>
+        <parent_ui_id>e5a07dd2-cfa9-4ef2-a31c-3abab33a3dc4</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>9a75a8861b34b9107bd542addc4bcb43</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>136</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1476,7 +1953,7 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>0b3b7c42-87ab-41a2-bd6f-37f56bdfb424</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9a75a8861b34b9107bd542addc4bcb43"/>
@@ -1547,7 +2024,7 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
         <comment>Create Parent UAR ticket - IT GRC</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
         <order>1</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
@@ -1555,7 +2032,7 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>a675a8861b34b9107bd542addc4bcb4b</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>136</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1563,7 +2040,7 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>bb886cc7-eb2f-4c06-b93b-aa13d4763071</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a675a8861b34b9107bd542addc4bcb4b"/>
@@ -1575,10 +2052,10 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_id>a675a8861b34b9107bd542addc4bcb59</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-22 22:55:12</sys_updated_on>
-        <value>short_description=Quarterly SOX UARs^assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}</value>
+        <sys_updated_on>2023-08-24 15:14:27</sys_updated_on>
+        <value>short_description=SOX Quarterly UAR – Oracle ERP^assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}^due_date=fd-scripted</value>
         <variable display_value="Field Values">273a6335531003003bf1d9109ec5876b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -1596,7 +2073,20 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759^id=a675a8861b34b9107bd542addc4bcb4b"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=a675a8861b34b9107bd542addc4bcb4b"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=a675a8861b34b9107bd542addc4bcb4b^sys_idNOT INe43fc9e21bfcf9107bd542addc4bcb6b"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>field_values</input_name>
+        <instance>a675a8861b34b9107bd542addc4bcb4b</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"due_date":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\nvar now \u003d new GlideDateTime(new GlideDate());\n\nreturn now;","savedValue":""}}</script>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 15:14:27</sys_created_on>
+        <sys_id>e43fc9e21bfcf9107bd542addc4bcb6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 15:14:27</sys_updated_on>
+    </sys_hub_input_scripts>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=a675a8861b34b9107bd542addc4bcb4b"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
@@ -1605,15 +2095,15 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
         <comment>QA all tasks and completed Workbook. IT - GRC</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
-        <order>8</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>16</order>
+        <parent_ui_id>4bd4b005-ce28-42ed-81c9-9e295dfd4cc0</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>a675a8861b34b9107bd542addc4bcb75</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>136</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1621,7 +2111,7 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>f821074d-2c22-4544-949b-4fd9d79e5fcb</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a675a8861b34b9107bd542addc4bcb75"/>
@@ -1647,10 +2137,10 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_id>ee75a8861b34b9107bd542addc4bcb76</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 01:32:57</sys_updated_on>
-        <value>0</value>
+        <sys_updated_on>2023-08-24 22:25:16</sys_updated_on>
+        <value>1</value>
         <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=a675a8861b34b9107bd542addc4bcb75"/>
@@ -1701,15 +2191,15 @@ Due 4th week on 3rd month of quarter.^assignment_group={"display":"IT - GRC","va
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
         <comment>Review Completed. Review all UAR comments. IT Security - IAM</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
-        <order>6</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>13➛14</order>
+        <parent_ui_id>fb0d9924-8d86-4737-98b1-97310c6bcdc1</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>aa75a8861b34b9107bd542addc4bcb69</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>136</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1717,7 +2207,7 @@ Due 4th week on 3rd month of quarter.^assignment_group={"display":"IT - GRC","va
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>c67fab11-f539-47d4-900f-027931cd4dce</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=aa75a8861b34b9107bd542addc4bcb69"/>
@@ -1734,6 +2224,20 @@ Due 4th week on 3rd month of quarter.^assignment_group={"display":"IT - GRC","va
         <sys_updated_on>2023-08-22 22:55:12</sys_updated_on>
         <value>x_geml_user_access_uar_task</value>
         <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>aa75a8861b34b9107bd542addc4bcb69</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-25 17:35:40</sys_created_on>
+        <sys_id>4719b2b61b707d107bd542addc4bcb38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:40</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=aa75a8861b34b9107bd542addc4bcb69"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
@@ -1764,6 +2268,18 @@ Due 3rd week on 3rd month of quarter.
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
         <value/>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>aa75a8861b34b9107bd542addc4bcb69</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-25 17:35:40</sys_created_on>
+        <sys_id>c319b2b61b707d107bd542addc4bcb38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:40</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=aa75a8861b34b9107bd542addc4bcb69"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=aa75a8861b34b9107bd542addc4bcb69"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -1773,15 +2289,15 @@ Due 3rd week on 3rd month of quarter.
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
         <comment>Management Review. UAR Management Review</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
-        <order>9</order>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>17</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>aa75a8861b34b9107bd542addc4bcb7b</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>136</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1789,7 +2305,7 @@ Due 3rd week on 3rd month of quarter.
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>e3a553aa-1c84-4d40-8f16-a74052d7b579</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=aa75a8861b34b9107bd542addc4bcb7b"/>
@@ -1815,10 +2331,10 @@ Due 3rd week on 3rd month of quarter.
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_id>e275a8861b34b9107bd542addc4bcb7d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 01:32:57</sys_updated_on>
-        <value>0</value>
+        <sys_updated_on>2023-08-24 22:25:16</sys_updated_on>
+        <value>1</value>
         <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=aa75a8861b34b9107bd542addc4bcb7b"/>
@@ -1867,17 +2383,17 @@ Due 4th week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
-        <comment>Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report. IT - Oracle ERP</comment>
+        <comment>Create &amp; Upload Curated Report to include “Neo User Roles and Security Values - Detailed” Report and added columns. IT - Oracle ERP</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
-        <order>2</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>5➛6</order>
+        <parent_ui_id>7d1a5b39-7dae-4e2e-9fa8-d67a6585b44f</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>ae75a8861b34b9107bd542addc4bcb5d</sys_id>
-        <sys_mod_count>84</sys_mod_count>
+        <sys_mod_count>136</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1885,7 +2401,7 @@ Due 4th week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>5afac8d6-fb81-4074-82a6-84dff6803f3e</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ae75a8861b34b9107bd542addc4bcb5d"/>
@@ -1903,6 +2419,20 @@ Due 4th week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <value>x_geml_user_access_uar_task</value>
         <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
     </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ae75a8861b34b9107bd542addc4bcb5d</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:25:16</sys_created_on>
+        <sys_id>63c1fa6a1b343d107bd542addc4bcb06</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:47:25</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
+    </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=ae75a8861b34b9107bd542addc4bcb5d"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>field_values</field>
@@ -1910,11 +2440,11 @@ Due 4th week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 22:55:12</sys_created_on>
         <sys_id>a275a8861b34b9107bd542addc4bcb5f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-22 22:55:12</sys_updated_on>
+        <sys_updated_on>2023-08-24 22:50:59</sys_updated_on>
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
-        <value>short_description=Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report^description=Include C&amp;A screenshots
+        <value>short_description=Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report^description=Create &amp; Upload Curated Report to include “Neo User Roles and Security Values - Detailed” Report and added columns.
 
 Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle ERP","value":"7bcf0a20877ca1101226dc683cbb350c","sys_id":"7bcf0a20877ca1101226dc683cbb350c"}^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record}}</value>
     </sys_element_mapping>
@@ -1930,6 +2460,18 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
         <value/>
     </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>ae75a8861b34b9107bd542addc4bcb5d</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:25:16</sys_created_on>
+        <sys_id>efc1fa6a1b343d107bd542addc4bcb05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:25:16</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=ae75a8861b34b9107bd542addc4bcb5d"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=ae75a8861b34b9107bd542addc4bcb5d"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
@@ -1937,17 +2479,17 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent display_value="Post a Message">23be39c713e0030039a039ed9344b058</action_type_parent>
-        <comment/>
+        <comment>Post a message to the Teams Channel Adaptive Card Development</comment>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
-        <order>10</order>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>19</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-23 01:25:01</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>c1c74dc61bb4b9107bd542addc4bcb6b</sys_id>
-        <sys_mod_count>60</sys_mod_count>
+        <sys_mod_count>112</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1955,7 +2497,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>47f6b69a-1afe-4193-acd8-7a0195dd9327</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c1c74dc61bb4b9107bd542addc4bcb6b"/>
@@ -1995,10 +2537,10 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-23 01:25:01</sys_created_on>
         <sys_id>8dc74dc61bb4b9107bd542addc4bcb6d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 01:25:01</sys_updated_on>
-        <value>https://neogenomics.webhook.office.com/webhookb2/3f637721-a6e3-45c2-bf89-3f5d4ea8867e@f75bfca3-0172-486c-b0a6-02ba92e58e36/IncomingWebhook/1f1af59f965544daa9b863463f32fab5/47773396-9461-4e38-a171-6e8028d27c9a</value>
+        <sys_updated_on>2023-08-24 22:19:34</sys_updated_on>
+        <value>https://neogenomics.webhook.office.com/webhookb2/8919bb29-2534-418f-a0fd-92b90c95e6b1@f75bfca3-0172-486c-b0a6-02ba92e58e36/IncomingWebhook/d00cc975963c494daf6773ea7859757d/47773396-9461-4e38-a171-6e8028d27c9a</value>
         <variable display_value="Webhook URL">689822431324030039a039ed9344b088</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -2009,10 +2551,10 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-23 01:25:01</sys_created_on>
         <sys_id>c9c74dc61bb4b9107bd542addc4bcb6d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 01:25:01</sys_updated_on>
-        <value>SNOW Ticket for Quarterly SOX UARs</value>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <value>SNOW Ticket for Quarterly SOX UARs Closed</value>
         <variable display_value="Title">f49822431324030039a039ed9344b0bb</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=c1c74dc61bb4b9107bd542addc4bcb6b"/>
@@ -2138,15 +2680,15 @@ Tasks&lt;br&gt;&lt;b&gt;
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <comment/>
         <display_text/>
-        <flow display_value="GRC - User Access Request">9a75a8861b34b9107bd542addc4bcb39</flow>
-        <order>4</order>
-        <parent_ui_id/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>9</order>
+        <parent_ui_id>e5a07dd2-cfa9-4ef2-a31c-3abab33a3dc4</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-23 00:39:51</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>df6db4ce1b74b9107bd542addc4bcb29</sys_id>
-        <sys_mod_count>68</sys_mod_count>
+        <sys_mod_count>120</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -2154,7 +2696,7 @@ Tasks&lt;br&gt;&lt;b&gt;
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 03:36:06</sys_updated_on>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
         <ui_id>b087ce24-c816-405b-a0a2-6d555613db48</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=df6db4ce1b74b9107bd542addc4bcb29"/>
@@ -2216,8 +2758,472 @@ Status: {{0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message}}</valu
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=df6db4ce1b74b9107bd542addc4bcb29"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=df6db4ce1b74b9107bd542addc4bcb29"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <comment>Close the parent user access review record</comment>
+        <display_text/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <order>18</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f87676ae1b343d107bd542addc4bcbee</sys_id>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
+        <ui_id>e5cbf8d9-4fc1-4465-8a42-f736d58df19c</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=f87676ae1b343d107bd542addc4bcbee"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>f87676ae1b343d107bd542addc4bcbee</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>3c7676ae1b343d107bd542addc4bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <value>x_geml_user_access_user_access_request_uar</value>
+        <variable display_value="Table">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=f87676ae1b343d107bd542addc4bcbee"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>f87676ae1b343d107bd542addc4bcbee</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>b87676ae1b343d107bd542addc4bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{bb886cc7-eb2f-4c06-b93b-aa13d4763071.Record}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>f87676ae1b343d107bd542addc4bcbee</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>347676ae1b343d107bd542addc4bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>f87676ae1b343d107bd542addc4bcbee</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>f47676ae1b343d107bd542addc4bcbf0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>state={{e3a553aa-1c84-4d40-8f16-a74052d7b579.Record.state}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=f87676ae1b343d107bd542addc4bcbee"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=f87676ae1b343d107bd542addc4bcbee"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=9a75a8861b34b9107bd542addc4bcb39"/>
-    <sys_hub_flow_logic action="delete_multiple" query="flow=9a75a8861b34b9107bd542addc4bcb39"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=9a75a8861b34b9107bd542addc4bcb39^sys_idNOT IN3076b6ae1b343d107bd542addc4bcb01,347676ae1b343d107bd542addc4bcbfe,3c7676ae1b343d107bd542addc4bcbf4,3c76b6ae1b343d107bd542addc4bcb03,747676ae1b343d107bd542addc4bcbfa,787676ae1b343d107bd542addc4bcbf7,95c8f6761b707d107bd542addc4bcbcd,d319b2b61b707d107bd542addc4bcb5b"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">dc063e6e1b343d107bd542addc4bcb08</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Parallel Branch">a1168de173311300b61e66476bf6a7d0</logic_definition>
+        <order>11</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>6e32bc5c-2f37-4b99-8a94-432f2447a75d</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3076b6ae1b343d107bd542addc4bcb01</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
+        <ui_id>f080aae8-f611-4c12-b679-9fc45d0a2f1e</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=3076b6ae1b343d107bd542addc4bcb01"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=3076b6ae1b343d107bd542addc4bcb01"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=3076b6ae1b343d107bd542addc4bcb01"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">54063e6e1b343d107bd542addc4bcb06</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Do the following in Parallel">5d31e5dedfe50300b61ecae83df26326</logic_definition>
+        <order>10</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>347676ae1b343d107bd542addc4bcbfe</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
+        <ui_id>6e32bc5c-2f37-4b99-8a94-432f2447a75d</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=347676ae1b343d107bd542addc4bcbfe"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=347676ae1b343d107bd542addc4bcbfe"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=347676ae1b343d107bd542addc4bcbfe"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">c006fa6e1b343d107bd542addc4bcbf5</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Do the following in Parallel">5d31e5dedfe50300b61ecae83df26326</logic_definition>
+        <order>2</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3c7676ae1b343d107bd542addc4bcbf4</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
+        <ui_id>70490ad0-3e60-41dd-8f69-8cf978925715</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=3c7676ae1b343d107bd542addc4bcbf4"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=3c7676ae1b343d107bd542addc4bcbf4"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=3c7676ae1b343d107bd542addc4bcbf4"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">54063e6e1b343d107bd542addc4bcb0e</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>15</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3c76b6ae1b343d107bd542addc4bcb03</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
+        <ui_id>4bd4b005-ce28-42ed-81c9-9e295dfd4cc0</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=3c76b6ae1b343d107bd542addc4bcb03"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>3c76b6ae1b343d107bd542addc4bcb03</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>bc76b6ae1b343d107bd542addc4bcb06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <value>Check for closed tasks</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=3c76b6ae1b343d107bd542addc4bcb03"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>3c76b6ae1b343d107bd542addc4bcb03</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>3c76b6ae1b343d107bd542addc4bcb06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{f972b4bf-6a55-450b-8bb6-eaaca7114b00.Record.active}}=false^{{c67fab11-f539-47d4-900f-027931cd4dce.Record.active}}=false</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>3c76b6ae1b343d107bd542addc4bcb03</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>7876b6ae1b343d107bd542addc4bcb06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=3c76b6ae1b343d107bd542addc4bcb03"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=3c76b6ae1b343d107bd542addc4bcb03"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">d806fa6e1b343d107bd542addc4bcbfe</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>7</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>747676ae1b343d107bd542addc4bcbfa</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
+        <ui_id>e5a07dd2-cfa9-4ef2-a31c-3abab33a3dc4</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=747676ae1b343d107bd542addc4bcbfa"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>747676ae1b343d107bd542addc4bcbfa</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>f47676ae1b343d107bd542addc4bcbfd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:26:36</sys_updated_on>
+        <value>both tasks are closed</value>
+        <variable display_value="Condition Label">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=747676ae1b343d107bd542addc4bcbfa"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition</field>
+        <id>747676ae1b343d107bd542addc4bcbfa</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>747676ae1b343d107bd542addc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value>{{872e0989-821f-42ee-b805-aafd9d1adff8.Record.active}}=false^{{5afac8d6-fb81-4074-82a6-84dff6803f3e.Record.active}}=false</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>condition_name</field>
+        <id>747676ae1b343d107bd542addc4bcbfa</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_id>b07676ae1b343d107bd542addc4bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-24 22:45:34</sys_updated_on>
+        <table>var__m_sys_hub_flow_logic_input_af4e1945c3e232002841b63b12d3ae3e</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=747676ae1b343d107bd542addc4bcbfa"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=747676ae1b343d107bd542addc4bcbfa"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">4c06fa6e1b343d107bd542addc4bcbf8</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Parallel Branch">a1168de173311300b61e66476bf6a7d0</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>70490ad0-3e60-41dd-8f69-8cf978925715</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-24 22:45:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>787676ae1b343d107bd542addc4bcbf7</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
+        <ui_id>381b987c-4e9e-4a6e-a7bc-1bf97a0000b0</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=787676ae1b343d107bd542addc4bcbf7"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=787676ae1b343d107bd542addc4bcbf7"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=787676ae1b343d107bd542addc4bcbf7"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">7f98b2761b707d107bd542addc4bcb82</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Parallel Branch">a1168de173311300b61e66476bf6a7d0</logic_definition>
+        <order>5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>70490ad0-3e60-41dd-8f69-8cf978925715</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-25 17:34:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>95c8f6761b707d107bd542addc4bcbcd</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
+        <ui_id>7d1a5b39-7dae-4e2e-9fa8-d67a6585b44f</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=95c8f6761b707d107bd542addc4bcbcd"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=95c8f6761b707d107bd542addc4bcbcd"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=95c8f6761b707d107bd542addc4bcbcd"/>
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">1509be761b707d107bd542addc4bcb1a</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <extended_inputs/>
+        <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
+        <flow_variable/>
+        <flow_variables_assigned/>
+        <inputs/>
+        <logic_definition display_value="Parallel Branch">a1168de173311300b61e66476bf6a7d0</logic_definition>
+        <order>13</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>6e32bc5c-2f37-4b99-8a94-432f2447a75d</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-25 17:35:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d319b2b61b707d107bd542addc4bcb5b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 17:35:41</sys_updated_on>
+        <ui_id>fb0d9924-8d86-4737-98b1-97310c6bcdc1</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=d319b2b61b707d107bd542addc4bcb5b"/>
+    <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=d319b2b61b707d107bd542addc4bcb5b"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=d319b2b61b707d107bd542addc4bcb5b"/>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=9a75a8861b34b9107bd542addc4bcb39"/>
     <sys_hub_flow_variable action="delete_multiple" query="model=9a75a8861b34b9107bd542addc4bcb39"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_9a75a8861b34b9107bd542addc4bcb39"/>
