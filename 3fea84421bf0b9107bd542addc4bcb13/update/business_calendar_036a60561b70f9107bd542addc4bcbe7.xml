@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="business_calendar">
     <business_calendar action="INSERT_OR_UPDATE">
-        <calendar_name>SOX Quarter</calendar_name>
+        <calendar_name>User Access Review Quarter</calendar_name>
         <description>Calendar used to calculate the last first day of the third day of the quarter.</description>
         <is_legacy_schedule>false</is_legacy_schedule>
-        <label>SOX Quarter</label>
-        <parent display_value="Year">017d95a353f3001076bcddeeff7b121a</parent>
-        <plural_label>SOX Quarters</plural_label>
+        <label>User Access Review Quarter</label>
+        <parent/>
+        <plural_label>User Access Review Quarters</plural_label>
         <sys_class_name>business_calendar</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-23 17:56:11</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>036a60561b70f9107bd542addc4bcbe7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>SOX Quarter</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>User Access Review Quarter</sys_name>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>business_calendar_036a60561b70f9107bd542addc4bcbe7</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-23 17:56:11</sys_updated_on>
+        <sys_updated_on>2023-08-25 23:14:03</sys_updated_on>
         <time_zone>US/Pacific</time_zone>
     </business_calendar>
 </record_update>

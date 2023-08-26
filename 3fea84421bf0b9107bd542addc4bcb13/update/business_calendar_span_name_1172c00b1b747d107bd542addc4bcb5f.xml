@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="business_calendar_span_name">
+    <business_calendar_span_name action="INSERT_OR_UPDATE">
+        <calendar display_value="Year">017d95a353f3001076bcddeeff7b121a</calendar>
+        <label>UAR Q1</label>
+        <long_name>User Access Review Q1</long_name>
+        <short_name>UAR Q1</short_name>
+        <sys_class_name>business_calendar_span_name</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-25 22:56:40</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1172c00b1b747d107bd542addc4bcb5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UAR Q1</sys_name>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name>business_calendar_span_name_1172c00b1b747d107bd542addc4bcb5f</sys_update_name>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-25 22:56:40</sys_updated_on>
+    </business_calendar_span_name>
+</record_update>
