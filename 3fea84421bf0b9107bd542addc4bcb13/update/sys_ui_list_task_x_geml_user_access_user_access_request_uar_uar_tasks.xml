@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="x_geml_user_access_user_access_request_uar" relationship="" sys_domain="global" table="task" version="2" view="uar_tasks">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="task" element="NULL" name="task" parent="x_geml_user_access_user_access_request_uar" relationship="NULL" sys_domain="global" view="b8198b771b3cf91092cc75dcdc4bcbda">5539cf771b3cf91092cc75dcdc4bcbce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-28 21:19:56</sys_created_on>
+            <sys_id>5139cf771b3cf91092cc75dcdc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-28 21:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="task" element="NULL" name="task" parent="x_geml_user_access_user_access_request_uar" relationship="NULL" sys_domain="global" view="b8198b771b3cf91092cc75dcdc4bcbda">5539cf771b3cf91092cc75dcdc4bcbce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-28 21:19:56</sys_created_on>
+            <sys_id>d139cf771b3cf91092cc75dcdc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-28 21:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="task" element="NULL" name="task" parent="x_geml_user_access_user_access_request_uar" relationship="NULL" sys_domain="global" view="b8198b771b3cf91092cc75dcdc4bcbda">5539cf771b3cf91092cc75dcdc4bcbce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-28 21:19:56</sys_created_on>
+            <sys_id>5539cf771b3cf91092cc75dcdc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-28 21:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="task" element="NULL" name="task" parent="x_geml_user_access_user_access_request_uar" relationship="NULL" sys_domain="global" view="b8198b771b3cf91092cc75dcdc4bcbda">5539cf771b3cf91092cc75dcdc4bcbce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-28 21:19:56</sys_created_on>
+            <sys_id>d539cf771b3cf91092cc75dcdc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-28 21:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>due_date</element>
+            <list_id display_value="task" element="NULL" name="task" parent="x_geml_user_access_user_access_request_uar" relationship="NULL" sys_domain="global" view="b8198b771b3cf91092cc75dcdc4bcbda">5539cf771b3cf91092cc75dcdc4bcbce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-28 21:19:56</sys_created_on>
+            <sys_id>5939cf771b3cf91092cc75dcdc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-28 21:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="task" element="NULL" name="task" parent="x_geml_user_access_user_access_request_uar" relationship="NULL" sys_domain="global" view="b8198b771b3cf91092cc75dcdc4bcbda">5539cf771b3cf91092cc75dcdc4bcbce</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-28 21:19:56</sys_created_on>
+            <sys_id>d939cf771b3cf91092cc75dcdc4bcbcf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-28 21:19:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>task</name>
+            <parent>x_geml_user_access_user_access_request_uar</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin.robert</sys_created_by>
+            <sys_created_on>2023-08-28 21:19:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>5539cf771b3cf91092cc75dcdc4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>task</sys_name>
+            <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+            <sys_update_name>sys_ui_list_task_x_geml_user_access_user_access_request_uar_uar_tasks</sys_update_name>
+            <sys_updated_by>admin.robert</sys_updated_by>
+            <sys_updated_on>2023-08-28 21:19:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="UAR Tasks" name="uar_tasks">b8198b771b3cf91092cc75dcdc4bcbda</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
