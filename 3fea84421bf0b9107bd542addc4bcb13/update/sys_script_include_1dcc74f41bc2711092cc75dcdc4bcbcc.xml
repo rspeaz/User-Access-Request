@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_geml_user_access.createUAR</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>createUAR</name>
+        <script><![CDATA[var createUAR = Class.create();
+createUAR.prototype = {
+    initialize: function() {},
+
+    createTestUAR: function() {
+
+        try {
+
+            //*******Call User Access Request Subflow******//
+
+
+            // Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
+            sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.user_access_request_subflow').inBackground().run();
+
+            // Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+            //var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.user_access_request_subflow').inForeground().run();
+            //var outputs = result.getOutputs();
+
+            // Current subflow has no outputs defined.		
+        } catch (ex) {
+            var message = ex.getMessage();
+            gs.error(message);
+        }
+
+    },
+
+    type: 'createUAR'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-10-20 06:44:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1dcc74f41bc2711092cc75dcdc4bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>createUAR</sys_name>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name>sys_script_include_1dcc74f41bc2711092cc75dcdc4bcbcc</sys_update_name>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-10-20 06:44:08</sys_updated_on>
+    </sys_script_include>
+</record_update>

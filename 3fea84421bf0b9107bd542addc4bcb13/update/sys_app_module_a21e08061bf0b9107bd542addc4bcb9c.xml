@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <application display_value="User Access Request UAR">121e40c21bf0b9107bd542addc4bcb95</application>
         <assessment/>
         <content_page/>
@@ -27,7 +27,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>a21e08061bf0b9107bd542addc4bcb9c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Open - Unassigned</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
@@ -36,7 +36,7 @@
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_app_module_a21e08061bf0b9107bd542addc4bcb9c</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-22 21:13:04</sys_updated_on>
+        <sys_updated_on>2023-10-19 23:44:30</sys_updated_on>
         <timeline_page/>
         <title>Open - Unassigned</title>
         <uncancelable>false</uncancelable>
