@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="DELETE">
+        <active>true</active>
+        <category>general</category>
+        <format/>
+        <height/>
+        <image/>
+        <name>x_geml_user_access.ERPReviewStep1.jpg</name>
+        <size_bytes/>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>adm_rspencer</sys_created_by>
+        <sys_created_on>2023-10-24 21:01:06</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9657e85e1b02b11092cc75dcdc4bcb59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_geml_user_access.ERPReviewStep1.jpg</sys_name>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name>db_image_9657e85e1b02b11092cc75dcdc4bcb59</sys_update_name>
+        <sys_updated_by>adm_rspencer</sys_updated_by>
+        <sys_updated_on>2023-10-24 21:01:06</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</application>
+        <file_path/>
+        <instance_id>13972a0b6f2869004c327b2f5d3ee410</instance_id>
+        <instance_name>neogenomicsdev</instance_name>
+        <name>db_image_9657e85e1b02b11092cc75dcdc4bcb59</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image"><db_image action="INSERT_OR_UPDATE"><active>true</active><category>general</category><format/><height/><image/><name>x_geml_user_access.ERPReviewStep1.jpg</name><size_bytes/><sys_class_name>db_image</sys_class_name><sys_created_by>adm_rspencer</sys_created_by><sys_created_on>2023-10-24 21:01:06</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9657e85e1b02b11092cc75dcdc4bcb59</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_geml_user_access.ERPReviewStep1.jpg</sys_name><sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope><sys_update_name>db_image_9657e85e1b02b11092cc75dcdc4bcb59</sys_update_name><sys_updated_by>adm_rspencer</sys_updated_by><sys_updated_on>2023-10-24 21:01:06</sys_updated_on><thumbnail/><width/></db_image></record_update>]]></payload>
+        <payload_hash>-1890842817</payload_hash>
+        <record_name>x_geml_user_access.ERPReviewStep1.jpg</record_name>
+        <reverted_from/>
+        <source>ce1932241b0e311092cc75dcdc4bcbc1</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>adm_rspencer</sys_created_by>
+        <sys_created_on>2023-10-24 21:01:06</sys_created_on>
+        <sys_id>9d87ac5e1b02b11092cc75dcdc4bcb6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b637dbb150000001</sys_recorded_at>
+        <sys_updated_by>adm_rspencer</sys_updated_by>
+        <sys_updated_on>2023-10-24 21:01:06</sys_updated_on>
+        <type>Images</type>
+        <u_link>[code]&lt;a title="db_image_9657e85e1b02b11092cc75dcdc4bcb59" class="linked" href="db_image.do?sys_id=9657e85e1b02b11092cc75dcdc4bcb59"&gt;db_image_9657e85e1b02b11092cc75dcdc4bcb59&lt;/a&gt;[/code]</u_link>
+        <update_guid>9187ac5e0002b11034721cb5e13ba66c</update_guid>
+        <update_guid_history>9187ac5e0002b11034721cb5e13ba66c:-1890842817</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 24-Oct-2023 14:02:15">86c7ec1e1b02b11092cc75dcdc4bcb32</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>adm_rspencer</sys_created_by>
+        <sys_created_on>2023-10-24 21:02:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="db_image">db_image</sys_db_object>
+        <sys_id>05226570c08b498e9d73ea2efda88e61</sys_id>
+        <sys_metadata>9657e85e1b02b11092cc75dcdc4bcb59</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_geml_user_access.ERPReviewStep1.jpg</sys_name>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_scope_delete display_value="">3d979570633443ec90f87b3281da18e9</sys_scope_delete>
+        <sys_update_name>db_image_9657e85e1b02b11092cc75dcdc4bcb59</sys_update_name>
+        <sys_update_version display_value="db_image_9657e85e1b02b11092cc75dcdc4bcb59">9d87ac5e1b02b11092cc75dcdc4bcb6c</sys_update_version>
+        <sys_updated_by>adm_rspencer</sys_updated_by>
+        <sys_updated_on>2023-10-24 21:02:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
