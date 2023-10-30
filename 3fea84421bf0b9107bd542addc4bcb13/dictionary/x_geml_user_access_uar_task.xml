@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="ab9094861bf0b9107bd542addc4bcb3d" extends="x_geml_user_access_user_access_request_uar" label="UAR Task" max_length="40" name="x_geml_user_access_uar_task" type="collection"/>
+    <element audit="true" db_object_id="ab9094861bf0b9107bd542addc4bcb3d" extends="x_geml_user_access_user_access_request_uar" label="UAR Task" max_length="40" name="x_geml_user_access_uar_task" type="collection">
+        <element label="Reminder sent" max_length="40" name="reminder_sent" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Reminder date" max_length="40" name="u_reminder_date" type="glide_date_time"/>
+    </element>
 </database>

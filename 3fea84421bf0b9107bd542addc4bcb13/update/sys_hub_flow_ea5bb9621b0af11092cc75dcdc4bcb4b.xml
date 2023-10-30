@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation>Send reminder emails for pending UAR Tasks.</annotation>
+        <attributes>labelCacheCleanUpExecuted=true</attributes>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Send a reminder email a week prior to the tasks due date.</description>
+        <internal_name>send_reminder_email_for_uar_tasks</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Send reminder email for UAR Tasks</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>system</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>adm_rspencer</sys_created_by>
+        <sys_created_on>2023-10-25 21:45:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>ea5bb9621b0af11092cc75dcdc4bcb4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Send reminder email for UAR Tasks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name>sys_hub_flow_ea5bb9621b0af11092cc75dcdc4bcb4b</sys_update_name>
+        <sys_updated_by>adm_rspencer</sys_updated_by>
+        <sys_updated_on>2023-10-25 21:45:51</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=ea5bb9621b0af11092cc75dcdc4bcb4b^sys_idNOT INe65bb9621b0af11092cc75dcdc4bcb4c"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>ea5bb9621b0af11092cc75dcdc4bcb4b</id>
+        <name>Send reminder email for UAR Tasks</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>adm_rspencer</sys_created_by>
+        <sys_created_on>2023-10-25 21:45:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e65bb9621b0af11092cc75dcdc4bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>adm_rspencer</sys_updated_by>
+        <sys_updated_on>2023-10-25 21:45:51</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=e65bb9621b0af11092cc75dcdc4bcb4c"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=ea5bb9621b0af11092cc75dcdc4bcb4b"/>
+</record_update>
