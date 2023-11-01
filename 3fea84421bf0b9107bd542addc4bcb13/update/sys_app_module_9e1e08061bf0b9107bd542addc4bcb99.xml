@@ -6,7 +6,7 @@
         <content_page/>
         <device_type/>
         <filter table="x_geml_user_access_user_access_request_uar">active=true^sys_class_name=x_geml_user_access_user_access_request_uar^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item display_value="User Access Request UAR" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_geml_user_access_user_access_request_uar"/>
+            <item display_value="User Access Review UAR" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_geml_user_access_user_access_request_uar"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>

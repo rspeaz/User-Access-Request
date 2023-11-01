@@ -4,6 +4,7 @@
         <acls/>
         <active>false</active>
         <annotation/>
+        <attributes/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
@@ -29,7 +30,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>0c9150c61bf0b9107bd542addc4bcb05</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>GRC - User Access Review</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
@@ -37,8 +38,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_hub_flow_0c9150c61bf0b9107bd542addc4bcb05</sys_update_name>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-10-19 22:39:29</sys_updated_on>
+        <sys_updated_by>adm_rspencer</sys_updated_by>
+        <sys_updated_on>2023-10-30 01:31:01</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_variable_value action="delete_multiple" query="document_key=0c9150c61bf0b9107bd542addc4bcb05"/>
@@ -75,6 +76,7 @@
         <condition/>
         <conditional>false</conditional>
         <entered_time/>
+        <max_drift/>
         <name>Trigger:fe75a8861b34b9107bd542addc4bcbb5</name>
         <offset/>
         <offset_type>0</offset_type>
@@ -178,6 +180,7 @@
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Close the parent user access review record</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -272,6 +275,7 @@
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -453,6 +457,7 @@ Emails cannot be sent to individuals from the development environment. This Team
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -652,6 +657,7 @@ Tasks&lt;br&gt;&lt;b&gt;
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -737,6 +743,7 @@ Status: {{0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message}}</valu
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Complete Oracle ERP UAR SOX Workbook. IT Security - IAM</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -860,6 +867,7 @@ Due 3rd week on 3rd month of quarter.^assignment_group={"display":"IT Security -
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Review Completed. Review all UAR comments. IT Security - IAM</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -983,6 +991,7 @@ Due 3rd week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -1159,6 +1168,7 @@ Click the link below to view the user access review and the associated tasks.
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Management Review. UAR Management Review</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -1282,6 +1292,7 @@ Due 4th week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report. IT - Oracle ERP</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -1405,6 +1416,7 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>QA all tasks and completed Workbook. IT - GRC</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -1526,6 +1538,7 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Create &amp; Upload Curated Report to include “Neo User Roles and Security Values - Detailed” Report and added columns. IT - Oracle ERP</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -1649,6 +1662,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -1822,6 +1836,7 @@ Click the link below to view the user access review and the associated tasks.
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Send notification to Oracle ERP Team, Kevin Burke, IAM Team, GRC Team and the reviewers</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -1924,6 +1939,7 @@ Kevin.Burke@neogenomics.com,tenille.lewis@neogenomics.com,darrin.henry@neogenomi
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Create Parent UAR ticket - IT GRC</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -1995,6 +2011,7 @@ Kevin.Burke@neogenomics.com,tenille.lewis@neogenomics.com,darrin.henry@neogenomi
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent/>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">0c9150c61bf0b9107bd542addc4bcb05</flow>
@@ -2162,6 +2179,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=0c9150c61bf0b9107bd542addc4bcb05"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=0c9150c61bf0b9107bd542addc4bcb05^sys_idNOT IN0406fa6e1b343d107bd542addc4bcbf9,1c063e6e1b343d107bd542addc4bcb06,8c06fa6e1b343d107bd542addc4bcbf5,94063e6e1b343d107bd542addc4bcb09,9909be761b707d107bd542addc4bcb1a,f798b2761b707d107bd542addc4bcb83"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">a35f65981b4e79107bd542addc4bcb11</block>
         <comment/>
         <connected_to/>
@@ -2200,6 +2218,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=0406fa6e1b343d107bd542addc4bcbf9"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=0406fa6e1b343d107bd542addc4bcbf9"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">af5f65981b4e79107bd542addc4bcb21</block>
         <comment/>
         <connected_to/>
@@ -2238,6 +2257,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=1c063e6e1b343d107bd542addc4bcb06"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=1c063e6e1b343d107bd542addc4bcb06"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">ef5f65981b4e79107bd542addc4bcb0b</block>
         <comment/>
         <connected_to/>
@@ -2276,6 +2296,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=8c06fa6e1b343d107bd542addc4bcbf5"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=8c06fa6e1b343d107bd542addc4bcbf5"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">e35f65981b4e79107bd542addc4bcb26</block>
         <comment/>
         <connected_to/>
@@ -2314,6 +2335,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=94063e6e1b343d107bd542addc4bcb09"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=94063e6e1b343d107bd542addc4bcb09"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">775f65981b4e79107bd542addc4bcb38</block>
         <comment/>
         <connected_to/>
@@ -2352,6 +2374,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=9909be761b707d107bd542addc4bcb1a"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=9909be761b707d107bd542addc4bcb1a"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">6f5f65981b4e79107bd542addc4bcb16</block>
         <comment/>
         <connected_to/>
@@ -2395,36 +2418,12 @@ Click the link below to view the user access review and the associated tasks.
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_0c9150c61bf0b9107bd542addc4bcb05"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_0c9150c61bf0b9107bd542addc4bcb05"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_0c9150c61bf0b9107bd542addc4bcb05"/>
-    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=0c9150c61bf0b9107bd542addc4bcb05^sys_idNOT INba75a8861b34b9107bd542addc4bcbb8"/>
-    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
-        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
-        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"ba75a8861b34b9107bd542addc4bcbb8","name":"plan","plan_signature":null}}</plan>
-        <plan_id>0c9150c61bf0b9107bd542addc4bcb05</plan_id>
-        <snapshot>9a75a8861b34b9107bd542addc4bcb39</snapshot>
-        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-08-22 22:55:13</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_domain>global</sys_domain>
-        <sys_id>ba75a8861b34b9107bd542addc4bcbb8</sys_id>
-        <sys_mod_count>18</sys_mod_count>
-        <sys_name/>
-        <sys_overrides/>
-        <sys_package/>
-        <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-28 18:02:09</sys_updated_on>
-        <trigger display_value="">fe75a8861b34b9107bd542addc4bcbb5</trigger>
-    </sys_flow_trigger_plan>
-    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=0c9150c61bf0b9107bd542addc4bcb05"/>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
         <acls/>
         <active>true</active>
         <annotation/>
+        <attributes/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
@@ -2547,6 +2546,7 @@ Click the link below to view the user access review and the associated tasks.
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent display_value="Post a Message">23be39c713e0030039a039ed9344b058</action_type_parent>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -2721,6 +2721,7 @@ Click the link below to view the user access review and the associated tasks.
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <attributes/>
         <comment>Complete Oracle ERP UAR SOX Workbook. IT Security - IAM</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -2830,6 +2831,7 @@ Due 3rd week on 3rd month of quarter.^assignment_group={"display":"IT Security -
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <attributes/>
         <comment>Create &amp; Upload “Neo User Roles and Security Values - Detailed” Report. IT - Oracle ERP</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -2939,6 +2941,7 @@ Due first day on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d476
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent display_value="Post a Message">23be39c713e0030039a039ed9344b058</action_type_parent>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -3119,6 +3122,7 @@ Emails cannot be sent to individuals from the development environment. This Team
         <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
+        <attributes/>
         <comment>Send notification to Oracle ERP Team, Kevin Burke, IAM Team, GRC Team and the reviewers</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -3221,6 +3225,7 @@ Kevin.Burke@neogenomics.com,tenille.lewis@neogenomics.com,darrin.henry@neogenomi
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <attributes/>
         <comment>Create Parent UAR ticket - IT GRC</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -3292,6 +3297,7 @@ Kevin.Burke@neogenomics.com,tenille.lewis@neogenomics.com,darrin.henry@neogenomi
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <attributes/>
         <comment>QA all tasks and completed Workbook. IT - GRC</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -3399,6 +3405,7 @@ Kevin.Burke@neogenomics.com,tenille.lewis@neogenomics.com,darrin.henry@neogenomi
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <attributes/>
         <comment>Review Completed. Review all UAR comments. IT Security - IAM</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -3508,6 +3515,7 @@ Due 3rd week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <attributes/>
         <comment>Management Review. UAR Management Review</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -3617,6 +3625,7 @@ Due 4th week on 3rd month of quarter.^parent={{bb886cc7-eb2f-4c06-b93b-aa13d4763
         <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <attributes/>
         <comment>Create &amp; Upload Curated Report to include “Neo User Roles and Security Values - Detailed” Report and added columns. IT - Oracle ERP</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -3726,6 +3735,7 @@ Due first day on 3rd month of quarter ^assignment_group={"display":"IT - Oracle 
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent display_value="Post a Message">23be39c713e0030039a039ed9344b058</action_type_parent>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -3925,6 +3935,7 @@ Tasks&lt;br&gt;&lt;b&gt;
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent display_value="Post a Message">23be39c713e0030039a039ed9344b058</action_type_parent>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -4094,6 +4105,7 @@ Click the link below to view the user access review and the associated tasks.
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
         <comment/>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -4179,6 +4191,7 @@ Status: {{0b3b7c42-87ab-41a2-bd6f-37f56bdfb424.__action_status__.message}}</valu
         <action_inputs/>
         <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
         <action_type_parent display_value="Post a Message">23be39c713e0030039a039ed9344b058</action_type_parent>
+        <attributes/>
         <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -4355,6 +4368,7 @@ Click the link below to view the user access review and the associated tasks.
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
+        <attributes/>
         <comment>Close the parent user access review record</comment>
         <display_text/>
         <flow display_value="GRC - User Access Review">9a75a8861b34b9107bd542addc4bcb39</flow>
@@ -4447,6 +4461,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=9a75a8861b34b9107bd542addc4bcb39"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=9a75a8861b34b9107bd542addc4bcb39^sys_idNOT IN3076b6ae1b343d107bd542addc4bcb01,347676ae1b343d107bd542addc4bcbfe,3c7676ae1b343d107bd542addc4bcbf4,787676ae1b343d107bd542addc4bcbf7,95c8f6761b707d107bd542addc4bcbcd,d319b2b61b707d107bd542addc4bcb5b"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">e35f65981b4e79107bd542addc4bcb26</block>
         <comment/>
         <connected_to/>
@@ -4485,6 +4500,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=3076b6ae1b343d107bd542addc4bcb01"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=3076b6ae1b343d107bd542addc4bcb01"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">af5f65981b4e79107bd542addc4bcb21</block>
         <comment/>
         <connected_to/>
@@ -4523,6 +4539,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=347676ae1b343d107bd542addc4bcbfe"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=347676ae1b343d107bd542addc4bcbfe"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">ef5f65981b4e79107bd542addc4bcb0b</block>
         <comment/>
         <connected_to/>
@@ -4561,6 +4578,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=3c7676ae1b343d107bd542addc4bcbf4"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=3c7676ae1b343d107bd542addc4bcbf4"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">a35f65981b4e79107bd542addc4bcb11</block>
         <comment/>
         <connected_to/>
@@ -4599,6 +4617,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=787676ae1b343d107bd542addc4bcbf7"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=787676ae1b343d107bd542addc4bcbf7"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">6f5f65981b4e79107bd542addc4bcb16</block>
         <comment/>
         <connected_to/>
@@ -4637,6 +4656,7 @@ Click the link below to view the user access review and the associated tasks.
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=95c8f6761b707d107bd542addc4bcbcd"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=95c8f6761b707d107bd542addc4bcbcd"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <attributes/>
         <block display_value="">775f65981b4e79107bd542addc4bcb38</block>
         <comment/>
         <connected_to/>
@@ -4685,4 +4705,29 @@ Click the link below to view the user access review and the associated tasks.
         <latest_snapshot>9a75a8861b34b9107bd542addc4bcb39</latest_snapshot>
         <compiler_build>glide-tokyo-07-08-2022__patch9-hotfix2a-06-26-2023_07-05-2023_1648.zip</compiler_build>
     </sys_hub_flow>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=0c9150c61bf0b9107bd542addc4bcb05^sys_idNOT INba75a8861b34b9107bd542addc4bcbb8"/>
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"ba75a8861b34b9107bd542addc4bcbb8","name":"plan","plan_signature":null}}</plan>
+        <plan_id>0c9150c61bf0b9107bd542addc4bcb05</plan_id>
+        <snapshot>9a75a8861b34b9107bd542addc4bcb39</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-08-22 22:55:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>ba75a8861b34b9107bd542addc4bcbb8</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-08-28 18:02:09</sys_updated_on>
+        <trigger display_value="">fe75a8861b34b9107bd542addc4bcbb5</trigger>
+    </sys_flow_trigger_plan>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=0c9150c61bf0b9107bd542addc4bcb05"/>
 </record_update>

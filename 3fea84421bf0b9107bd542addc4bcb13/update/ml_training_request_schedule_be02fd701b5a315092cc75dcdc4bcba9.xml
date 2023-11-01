@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ml_training_request_schedule">
+    <ml_training_request_schedule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <capability/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <max_drift/>
+        <ml_capability_definition display_value="Similar Open Incidents (last 1 month)">376b764f53b30010c839ddeeff7b1299</ml_capability_definition>
+        <ml_solution/>
+        <name>Similar Open Incidents (last 1 month)</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="Robert Spencer (adm_rspencer)">9aae5fe2db970410091d65494b961935</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek/>
+        <run_period>1970-01-31 00:00:00</run_period>
+        <run_start>2023-11-01 20:51:31</run_start>
+        <run_time/>
+        <run_type>periodically</run_type>
+        <solution_definition/>
+        <sys_class_name>ml_training_request_schedule</sys_class_name>
+        <sys_created_by>adm_rspencer</sys_created_by>
+        <sys_created_on>2023-11-01 20:51:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>be02fd701b5a315092cc75dcdc4bcba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Similar Open Incidents (last 1 month)</sys_name>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name>ml_training_request_schedule_be02fd701b5a315092cc75dcdc4bcba9</sys_update_name>
+        <sys_updated_by>adm_rspencer</sys_updated_by>
+        <sys_updated_on>2023-11-01 20:51:31</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </ml_training_request_schedule>
+</record_update>

@@ -48,7 +48,7 @@
         <field>assignment_group</field>
         <field_list>number,active,short_description,u_category,priority,state,assignment_group,assigned_to,caller_id,opened_by</field_list>
         <filter table="x_geml_user_access_user_access_request_uar">active=true^sys_class_name=x_geml_user_access_user_access_request_uar<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
-            <item display_value="User Access Request UAR" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_geml_user_access_user_access_request_uar"/>
+            <item display_value="User Access Review UAR" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_geml_user_access_user_access_request_uar"/>
         </filter>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{"$COUNT_FIELD$,AGGREGATION":{"decimalPrecision":2,"groupingUsed":true,"roundingMode":"HALF_UP","metricPrefixSymbolUsed":false,"showOriginalNumberInTooltip":true,"addValueInTooltip":true}}}</formatting_configuration>
         <from/>

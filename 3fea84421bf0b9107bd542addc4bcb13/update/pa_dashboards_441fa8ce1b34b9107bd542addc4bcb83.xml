@@ -11,6 +11,9 @@
         <managed_publisher/>
         <name>User Access Request</name>
         <no_tabs>false</no_tabs>
+        <notification_link_label/>
+        <notification_link_url/>
+        <notification_text/>
         <order/>
         <owner display_value="Robert Spencer (admin.robert)">9861aaf41be701900184a827bc4bcb90</owner>
         <restrict_to_roles>x_geml_user_access.grc_uar,admin,itil</restrict_to_roles>

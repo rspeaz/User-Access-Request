@@ -5,9 +5,11 @@
         <advanced>false</advanced>
         <condition/>
         <description>Default access control on x_geml_user_access_uar_task</description>
+        <local_or_existing>Local</local_or_existing>
         <name>x_geml_user_access_uar_task</name>
         <operation display_value="delete">delete</operation>
         <script/>
+        <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-08-22 21:26:05</sys_created_on>
