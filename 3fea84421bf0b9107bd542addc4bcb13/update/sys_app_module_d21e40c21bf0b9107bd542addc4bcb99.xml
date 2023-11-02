@@ -14,7 +14,7 @@
         <mobile_title>User Access Request UAR</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name/>
-        <order>3</order>
+        <order>50</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -27,7 +27,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>d21e40c21bf0b9107bd542addc4bcb99</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Oracle ERP Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
@@ -36,7 +36,7 @@
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_app_module_d21e40c21bf0b9107bd542addc4bcb99</sys_update_name>
         <sys_updated_by>adm_rspencer</sys_updated_by>
-        <sys_updated_on>2023-11-02 00:22:18</sys_updated_on>
+        <sys_updated_on>2023-11-02 00:52:34</sys_updated_on>
         <timeline_page/>
         <title>Oracle ERP Requests</title>
         <uncancelable>false</uncancelable>

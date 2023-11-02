@@ -3,154 +3,140 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>92bac9ee1bbcf9107bd542addc4bcbf7</sys_id>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>7326f6b01b9e315092cc75dcdc4bcb8c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
             <position>1</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>96bac9ee1bbcf9107bd542addc4bcbf7</sys_id>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>bb26f6b01b9e315092cc75dcdc4bcb8c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
             <position>2</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>9abac9ee1bbcf9107bd542addc4bcbf7</sys_id>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>bf26f6b01b9e315092cc75dcdc4bcb8c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>3</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>9ebac9ee1bbcf9107bd542addc4bcbf7</sys_id>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>b326f6b01b9e315092cc75dcdc4bcb8d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>due_date</element>
             <position>4</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>92bac9ee1bbcf9107bd542addc4bcbf8</sys_id>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>b726f6b01b9e315092cc75dcdc4bcb8d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assignment_group</element>
             <position>5</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>96bac9ee1bbcf9107bd542addc4bcbf8</sys_id>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>bb26f6b01b9e315092cc75dcdc4bcb8d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
             <position>6</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>9abac9ee1bbcf9107bd542addc4bcbf8</sys_id>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>bf26f6b01b9e315092cc75dcdc4bcb8d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
             <position>7</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>9ebac9ee1bbcf9107bd542addc4bcbf8</sys_id>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>b326f6b01b9e315092cc75dcdc4bcb8e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
             <position>8</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>92bac9ee1bbcf9107bd542addc4bcbf9</sys_id>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>b726f6b01b9e315092cc75dcdc4bcb8e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
             <position>9</position>
-            <sys_created_by>admin.robert</sys_created_by>
-            <sys_created_on>2023-08-24 14:54:54</sys_created_on>
-            <sys_id>96bac9ee1bbcf9107bd542addc4bcbf9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
-            <sys_updated_by>admin.robert</sys_updated_by>
-            <sys_updated_on>2023-08-24 14:54:54</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>uar_type</element>
-            <position>10</position>
             <sys_created_by>adm_rspencer</sys_created_by>
-            <sys_created_on>2023-11-02 00:02:33</sys_created_on>
-            <sys_id>d1cdde701b1e315092cc75dcdc4bcb4c</sys_id>
+            <sys_created_on>2023-11-02 01:49:13</sys_created_on>
+            <sys_id>bb26f6b01b9e315092cc75dcdc4bcb8e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
             <sys_updated_by>adm_rspencer</sys_updated_by>
-            <sys_updated_on>2023-11-02 00:02:33</sys_updated_on>
+            <sys_updated_on>2023-11-02 01:49:13</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

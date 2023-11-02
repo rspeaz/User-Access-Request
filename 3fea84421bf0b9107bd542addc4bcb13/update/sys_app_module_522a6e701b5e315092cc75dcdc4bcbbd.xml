@@ -5,40 +5,44 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter/>
-        <hint/>
+        <filter table="x_geml_user_access_user_access_request_uar">active=false^uar_type=workday^sys_class_name=x_geml_user_access_user_access_request_uar^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item display_value="Workday" endquery="false" field="uar_type" goto="false" newquery="false" operator="=" or="false" value="workday"/>
+            <item display_value="User Access Review UAR" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_geml_user_access_user_access_request_uar"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Closed Workday User access requests</hint>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Closed</mobile_title>
+        <mobile_title>Open Requests</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_geml_user_access_user_access_request_uar</name>
-        <order>70</order>
+        <order>170</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>active=false^EQ</query>
+        <query/>
         <report/>
         <roles/>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-08-22 21:13:04</sys_created_on>
+        <sys_created_by>adm_rspencer</sys_created_by>
+        <sys_created_on>2023-11-02 00:56:41</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_id>661e08061bf0b9107bd542addc4bcb9e</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Closed</sys_name>
+        <sys_id>522a6e701b5e315092cc75dcdc4bcbbd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Closed Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name>sys_app_module_661e08061bf0b9107bd542addc4bcb9e</sys_update_name>
+        <sys_update_name>sys_app_module_522a6e701b5e315092cc75dcdc4bcbbd</sys_update_name>
         <sys_updated_by>adm_rspencer</sys_updated_by>
-        <sys_updated_on>2023-11-02 00:52:42</sys_updated_on>
+        <sys_updated_on>2023-11-02 01:38:33</sys_updated_on>
         <timeline_page/>
-        <title>Closed</title>
+        <title>Closed Requests</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
