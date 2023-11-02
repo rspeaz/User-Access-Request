@@ -25,5 +25,11 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Salesforce contract number" max_length="40" name="salesforce_contract_number" type="string"/>
+        <element choice="1" label="UAR Type" max_length="40" name="uar_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Oracle ERP" sequence="1" value="oracle"/>
+                <element inactive_on_update="false" label="Workday" sequence="2" value="workday"/>
+            </choice>
+        </element>
     </element>
 </database>

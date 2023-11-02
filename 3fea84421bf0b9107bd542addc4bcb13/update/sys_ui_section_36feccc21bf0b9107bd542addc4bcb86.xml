@@ -140,6 +140,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>uar_type</element>
+            <position>10</position>
+            <sys_created_by>adm_rspencer</sys_created_by>
+            <sys_created_on>2023-11-02 00:02:33</sys_created_on>
+            <sys_id>d1cdde701b1e315092cc75dcdc4bcb4c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_geml_user_access_user_access_request_uar" sys_domain="global" view="Default view">36feccc21bf0b9107bd542addc4bcb86</sys_ui_section>
+            <sys_updated_by>adm_rspencer</sys_updated_by>
+            <sys_updated_on>2023-11-02 00:02:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

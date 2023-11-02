@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="User Access Request UAR">121e40c21bf0b9107bd542addc4bcb95</application>
+        <application display_value="User Access Request">121e40c21bf0b9107bd542addc4bcb95</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -14,7 +14,7 @@
         <mobile_title>UAR Tasks</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name/>
-        <order>10</order>
+        <order>30</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -27,18 +27,18 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>ab2cac0e1b34b9107bd542addc4bcbba</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>User Access Review Tasks</sys_name>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Oracle ERP UAR Tasks</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_app_module_ab2cac0e1b34b9107bd542addc4bcbba</sys_update_name>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-08-24 14:51:04</sys_updated_on>
+        <sys_updated_by>adm_rspencer</sys_updated_by>
+        <sys_updated_on>2023-11-02 00:22:53</sys_updated_on>
         <timeline_page/>
-        <title>User Access Review Tasks</title>
+        <title>Oracle ERP UAR Tasks</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
