@@ -8,7 +8,8 @@ var now = new GlideDateTime();
 var month = now.getMonthLocalTime();
 var day = now.getDayOfMonthLocalTime();
 
-if ((month == 2 || month == 5 || month == 8 || month == 11) && day == 26) {
+if ((month == 2 || month == 5 || month == 8 || month == 11) && day == 1) {
+	//day == 26) {
 	
     answer = true;
 }
@@ -17,7 +18,7 @@ answer;]]></condition>
         <conditional>true</conditional>
         <entered_time>1970-01-01 05:00:00</entered_time>
         <max_drift/>
-        <name>UAR Oracle ERP - 26th day of the 2nd month of the quarter</name>
+        <name>UAR Workday - 26th day of the 2nd month of the quarter</name>
         <offset/>
         <offset_type>0</offset_type>
         <run_as display_value="Robert Spencer (admin.robert)">9861aaf41be701900184a827bc4bcb90</run_as>
@@ -32,32 +33,34 @@ answer;]]></condition>
 	
 	try {
 
-		// Start Asynchronously: Uncomment to run in background.
-		// sn_fd.FlowAPI.getRunner().flow('x_geml_user_access.grc__user_access_request').inBackground().run();
+		// Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
+		// sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.uar__workday').inBackground().run();
 				
-		// Execute Synchronously: Run in foreground.
-		sn_fd.FlowAPI.getRunner().flow('x_geml_user_access.grc__user_access_request').inForeground().run(); //trigger flow GRC - User Access Request
-		
+		// Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+		var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.uar__workday').inForeground().run();
+		//var outputs = result.getOutputs();
+
+		// Current subflow has no outputs defined.		
 	} catch (ex) {
 		var message = ex.getMessage();
-		gs.error("SOX - UAR: " + message);
+		gs.error("UAR Workday: " + message,"Sched job: UAR Workday - 26th day of the 2nd month of the quarter");
 	}
 	
 })();]]></script>
         <sys_class_name>sysauto_script</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-08-22 23:21:51</sys_created_on>
+        <sys_created_by>adm_rspencer</sys_created_by>
+        <sys_created_on>2023-11-02 01:31:01</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>943ba00e1b34b9107bd542addc4bcbbc</sys_id>
-        <sys_mod_count>7</sys_mod_count>
-        <sys_name>UAR Oracle ERP - 26th day of the 2nd month of the quarter</sys_name>
+        <sys_id>4d023a7c1b5e315092cc75dcdc4bcb5b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>UAR Workday - 26th day of the 2nd month of the quarter</sys_name>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name>sysauto_script_943ba00e1b34b9107bd542addc4bcbbc</sys_update_name>
+        <sys_update_name>sysauto_script_4d023a7c1b5e315092cc75dcdc4bcb5b</sys_update_name>
         <sys_updated_by>adm_rspencer</sys_updated_by>
-        <sys_updated_on>2023-11-02 01:30:47</sys_updated_on>
+        <sys_updated_on>2023-11-02 02:27:41</sys_updated_on>
         <time_zone>US/Eastern</time_zone>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>
