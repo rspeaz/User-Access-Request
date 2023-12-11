@@ -29,6 +29,7 @@
             <choice>
                 <element inactive_on_update="false" label="Oracle ERP" sequence="1" value="oracle"/>
                 <element inactive_on_update="false" label="Workday" sequence="2" value="workday"/>
+                <element inactive_on_update="false" label="Workday Change" sequence="3" value="workday_change"/>
             </choice>
         </element>
     </element>

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
-        <category display_value="">Custom Applications</category>
-        <description>Oracle ERP Quarterly SOX UAR SNOW workflow</description>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>Automated SNOW Ticket for Quarterly SOX Workday Change Review</description>
         <device_type>browser</device_type>
-        <hint>Oracle ERP Quarterly SOX UAR SNOW workflow</hint>
+        <hint/>
         <name/>
-        <order>30</order>
-        <roles>itil,x_geml_user_access.grc_uar</roles>
+        <order>35</order>
+        <roles/>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-08-22 21:13:04</sys_created_on>
+        <sys_created_on>2023-12-08 01:00:17</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_id>121e40c21bf0b9107bd542addc4bcb95</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>SOX Quarterly Reviews</sys_name>
+        <sys_id>841408601bcbb5107bd542addc4bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Workday Change Review </sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name>sys_app_application_121e40c21bf0b9107bd542addc4bcb95</sys_update_name>
+        <sys_update_name>sys_app_application_841408601bcbb5107bd542addc4bcb6a</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 19:13:33</sys_updated_on>
-        <title>SOX Quarterly Reviews</title>
+        <sys_updated_on>2023-12-08 01:00:17</sys_updated_on>
+        <title>Workday Change Review </title>
         <view_name/>
     </sys_app_application>
 </record_update>
