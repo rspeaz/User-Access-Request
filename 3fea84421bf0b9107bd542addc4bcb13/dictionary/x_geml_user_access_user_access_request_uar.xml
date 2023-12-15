@@ -30,6 +30,7 @@
                 <element inactive_on_update="false" label="Oracle ERP" sequence="1" value="oracle"/>
                 <element inactive_on_update="false" label="Workday" sequence="2" value="workday"/>
                 <element inactive_on_update="false" label="Workday Change" sequence="3" value="workday_change"/>
+                <element inactive_on_update="false" label="Oracle ERP Change" sequence="4" value="oracle_change"/>
             </choice>
         </element>
     </element>

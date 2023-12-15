@@ -5,83 +5,102 @@
         <api_name>x_geml_user_access.createUAR</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description/>
+        <description>Used for testing to trigger the Oracle ERP user access request and workday change processes.</description>
         <name>createUAR</name>
         <script><![CDATA[var createUAR = Class.create();
 createUAR.prototype = {
-        initialize: function() {},
+    initialize: function() {},
 
-        createTestUAR: function() {
+    createTestUAR: function() {
 
-            try {
+        try {
 
-                //*******Call User Access Request Subflow******//
-
-
-                // Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
-                sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.user_access_request_subflow').inBackground().run();
-
-                // Execute Synchronously: Run in foreground. Code snippet has access to outputs.
-                //var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.user_access_request_subflow').inForeground().run();
-                //var outputs = result.getOutputs();
-
-                // Current subflow has no outputs defined.		
-            } catch (ex) {
-                var message = ex.getMessage();
-                gs.error(message);
-            }
-
-        },
-
-        createTestUARWorkday: function() {
+            //*******Call User Access Request Subflow******//
 
 
-            try {
+            // Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
+            sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.user_access_request_subflow').inBackground().run();
 
-                // Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
-                sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.uar__workday').inBackground().run();
+            // Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+            //var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.user_access_request_subflow').inForeground().run();
+            //var outputs = result.getOutputs();
 
-                // Execute Synchronously: Run in foreground. Code snippet has access to outputs.
-                //var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.uar__workday').inForeground().run();
-                //var outputs = result.getOutputs();
+            // Current subflow has no outputs defined.		
+        } catch (ex) {
+            var message = ex.getMessage();
+            gs.error(message);
+        }
 
-                // Current subflow has no outputs defined.		
-            } catch (ex) {
-                var message = ex.getMessage();
-                gs.error("UAR Workday: " + message, "Sched job: UAR Workday - 26th day of the 2nd month of the quarter");
-            }
+    },
 
-        },
-
-        createTestWorkdayChange: function() {
+    createTestUARWorkday: function() {
 
 
-            try {
+        try {
 
-                // Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
-                sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.workday_change_review').inBackground().run();
+            // Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
+            sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.uar__workday').inBackground().run();
 
-                // Execute Synchronously: Run in foreground. Code snippet has access to outputs.
-                //var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.workday_change_review').inForeground().run();
-                var outputs = result.getOutputs();
+            // Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+            //var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.uar__workday').inForeground().run();
+            //var outputs = result.getOutputs();
 
-                // Current subflow has no outputs defined.		
-            } catch (ex) {
-                var message = ex.getMessage();
-                gs.error("Workday SNOW Change Review : " + message, "Sched job: Workday Change Review - 7th day of the third month of the quarter.");
-                }
+            // Current subflow has no outputs defined.		
+        } catch (ex) {
+            var message = ex.getMessage();
+            gs.error("UAR Workday: " + message, "Sched job: UAR Workday - 26th day of the 2nd month of the quarter");
+        }
 
-            },
+    },
+
+    createTestWorkdayChange: function() {
 
 
-            type: 'createUAR'
-        };]]></script>
+        try {
+
+            // Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
+            sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.workday_change_review').inBackground().run();
+
+            // Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+            //var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.workday_change_review').inForeground().run();
+            //var outputs = result.getOutputs();
+
+            // Current subflow has no outputs defined.		
+        } catch (ex) {
+            var message = ex.getMessage();
+            gs.error("Workday SNOW Change Review : " + message, "Sched job: Workday Change Review - 7th day of the third month of the quarter.");
+        }
+
+    },
+
+    createTestOracleERPChange: function() {
+
+
+        try {
+
+            // Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
+            sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.sox_quarterly_oracle_erp_change_review').inBackground().run();
+            // Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+            //var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.workday_change_review').inForeground().run();
+            //var outputs = result.getOutputs();
+
+            // Current subflow has no outputs defined.		
+        } catch (ex) {
+            var message = ex.getMessage();
+            gs.error("Oracle ERP Change Review : " + message, "Sched job: Workday Change Review - 7th day of the third month of the quarter.");
+        }
+
+    },
+
+
+    type: 'createUAR'
+};]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-10-20 06:44:08</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>1dcc74f41bc2711092cc75dcdc4bcbcc</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>createUAR</sys_name>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy>read</sys_policy>
@@ -89,6 +108,6 @@ createUAR.prototype = {
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_script_include_1dcc74f41bc2711092cc75dcdc4bcbcc</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:55:09</sys_updated_on>
+        <sys_updated_on>2023-12-12 00:27:37</sys_updated_on>
     </sys_script_include>
 </record_update>

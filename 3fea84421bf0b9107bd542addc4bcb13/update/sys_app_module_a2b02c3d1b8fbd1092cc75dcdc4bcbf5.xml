@@ -5,18 +5,20 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="x_geml_user_access_uar_task">uar_type=oracle^EQ<item display_value="Oracle ERP" endquery="false" field="uar_type" goto="false" newquery="false" operator="=" or="false" value="oracle"/>
+        <filter table="x_geml_user_access_user_access_request_uar">uar_type=oracle_change^active=false^sys_class_name=x_geml_user_access_user_access_request_uar^EQ<item display_value="Oracle ERP Change" endquery="false" field="uar_type" goto="false" newquery="false" operator="=" or="false" value="oracle_change"/>
+            <item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="false"/>
+            <item display_value="User Access Review UAR" endquery="false" field="sys_class_name" goto="false" newquery="false" operator="=" or="false" value="x_geml_user_access_user_access_request_uar"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
-        <hint/>
+        <hint>List of closed Oracle ERP Change requests</hint>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Closed Tasks</mobile_title>
+        <mobile_title>Oracle ERP Requests</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_geml_user_access_uar_task</name>
-        <order>50</order>
+        <name>x_geml_user_access_user_access_request_uar</name>
+        <order>110</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,23 +26,23 @@
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
-        <sys_created_by>adm_rspencer</sys_created_by>
-        <sys_created_on>2023-11-02 00:50:07</sys_created_on>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-12 00:17:14</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_id>4aa82a301b5e315092cc75dcdc4bcb2f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_id>a2b02c3d1b8fbd1092cc75dcdc4bcbf5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Closed Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name>sys_app_module_4aa82a301b5e315092cc75dcdc4bcb2f</sys_update_name>
-        <sys_updated_by>adm_rspencer</sys_updated_by>
-        <sys_updated_on>2023-11-02 00:50:07</sys_updated_on>
+        <sys_update_name>sys_app_module_a2b02c3d1b8fbd1092cc75dcdc4bcbf5</sys_update_name>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-13 05:03:26</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Closed Requests</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

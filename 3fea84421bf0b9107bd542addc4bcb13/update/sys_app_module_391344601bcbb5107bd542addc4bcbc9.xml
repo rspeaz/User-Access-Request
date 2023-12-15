@@ -29,8 +29,8 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>391344601bcbb5107bd542addc4bcbc9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Trigger Workday SNOW Change Review</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Trigger Workday Change Review</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
@@ -38,9 +38,9 @@
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_app_module_391344601bcbb5107bd542addc4bcbc9</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:55:22</sys_updated_on>
+        <sys_updated_on>2023-12-12 00:10:57</sys_updated_on>
         <timeline_page/>
-        <title>Trigger Workday SNOW Change Review</title>
+        <title>Trigger Workday Change Review</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

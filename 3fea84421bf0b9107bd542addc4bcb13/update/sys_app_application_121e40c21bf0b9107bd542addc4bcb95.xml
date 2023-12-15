@@ -2,9 +2,9 @@
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <category display_value="">Custom Applications</category>
-        <description>Oracle ERP Quarterly SOX UAR SNOW workflow</description>
+        <description>SOX Quarterly review requests and tasks</description>
         <device_type>browser</device_type>
-        <hint>Oracle ERP Quarterly SOX UAR SNOW workflow</hint>
+        <hint>SOX Quarterly review requests and tasks</hint>
         <name/>
         <order>30</order>
         <roles>itil,x_geml_user_access.grc_uar</roles>
@@ -14,7 +14,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>121e40c21bf0b9107bd542addc4bcb95</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>SOX Quarterly Reviews</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
@@ -23,7 +23,7 @@
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_app_application_121e40c21bf0b9107bd542addc4bcb95</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 19:13:33</sys_updated_on>
+        <sys_updated_on>2023-12-12 00:13:59</sys_updated_on>
         <title>SOX Quarterly Reviews</title>
         <view_name/>
     </sys_app_application>

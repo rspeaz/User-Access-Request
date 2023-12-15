@@ -27,18 +27,18 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>d21e40c21bf0b9107bd542addc4bcb99</sys_id>
-        <sys_mod_count>8</sys_mod_count>
-        <sys_name>Oracle ERP Requests</sys_name>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Oracle ERP User Access Review</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_app_module_d21e40c21bf0b9107bd542addc4bcb99</sys_update_name>
-        <sys_updated_by>adm_rspencer</sys_updated_by>
-        <sys_updated_on>2023-11-02 00:52:34</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-12 00:20:59</sys_updated_on>
         <timeline_page/>
-        <title>Oracle ERP Requests</title>
+        <title>Oracle ERP User Access Review</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

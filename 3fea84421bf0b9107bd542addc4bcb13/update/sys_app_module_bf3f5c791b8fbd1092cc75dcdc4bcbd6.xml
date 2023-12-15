@@ -8,7 +8,7 @@
         <filter table="sysauto">name=User access review task generation - 1st day of the quarter^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="User access review task generation - 1st day of the quarter"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
-        <hint>Used for testing Oracle UAR tasks</hint>
+        <hint>Used for testing Workday SNOW Change Review </hint>
         <homepage/>
         <image/>
         <link_type>SCRIPT</link_type>
@@ -16,31 +16,31 @@
         <mobile_title>Trigger User Access Review</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>sysauto</name>
-        <order>2</order>
+        <order>4</order>
         <override_menu_roles>true</override_menu_roles>
-        <query>new x_geml_user_access.createUAR().createTestUARWorkday();</query>
+        <query>new x_geml_user_access.createUAR().createTestOracleERPChange();</query>
         <report/>
         <roles>itil</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
-        <sys_created_by>adm_rspencer</sys_created_by>
-        <sys_created_on>2023-11-02 02:50:10</sys_created_on>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-12 00:10:46</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_id>a82487b01bde315092cc75dcdc4bcb7a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Trigger Workday UAR Test</sys_name>
+        <sys_id>bf3f5c791b8fbd1092cc75dcdc4bcbd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Trigger Oracle ERP Change Review</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name>sys_app_module_a82487b01bde315092cc75dcdc4bcb7a</sys_update_name>
+        <sys_update_name>sys_app_module_bf3f5c791b8fbd1092cc75dcdc4bcbd6</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-12 00:11:38</sys_updated_on>
+        <sys_updated_on>2023-12-12 00:10:46</sys_updated_on>
         <timeline_page/>
-        <title>Trigger Workday UAR Test</title>
+        <title>Trigger Oracle ERP Change Review</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

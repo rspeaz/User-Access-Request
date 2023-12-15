@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>false</active>
+        <application display_value="SOX Quarterly Reviews">121e40c21bf0b9107bd542addc4bcb95</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="x_geml_user_access_uar_task">uar_type=oracle^EQ<item display_value="Oracle ERP" endquery="false" field="uar_type" goto="false" newquery="false" operator="=" or="false" value="oracle"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Closed Tasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_geml_user_access_uar_task</name>
+        <order>50</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>adm_rspencer</sys_created_by>
+        <sys_created_on>2023-11-02 00:50:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>4aa82a301b5e315092cc75dcdc4bcb2f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name>sys_app_module_4aa82a301b5e315092cc75dcdc4bcb2f</sys_update_name>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-11 18:42:05</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</application>
+        <file_path/>
+        <instance_id>13972a0b6f2869004c327b2f5d3ee410</instance_id>
+        <instance_name>neogenomicsdev</instance_name>
+        <name>sys_app_module_4aa82a301b5e315092cc75dcdc4bcb2f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>false</active><application display_value="SOX Quarterly Reviews">121e40c21bf0b9107bd542addc4bcb95</application><assessment/><content_page/><device_type/><filter table="x_geml_user_access_uar_task">uar_type=oracle^EQ<item display_value="Oracle ERP" endquery="false" field="uar_type" goto="false" newquery="false" operator="=" or="false" value="oracle"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Closed Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_geml_user_access_uar_task</name><order>50</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>adm_rspencer</sys_created_by><sys_created_on>2023-11-02 00:50:07</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>4aa82a301b5e315092cc75dcdc4bcb2f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope><sys_update_name>sys_app_module_4aa82a301b5e315092cc75dcdc4bcb2f</sys_update_name><sys_updated_by>admin.robert</sys_updated_by><sys_updated_on>2023-12-11 18:42:05</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1010076913</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>c50ff6b41bd2f9107bd542addc4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-11 18:42:05</sys_created_on>
+        <sys_id>41049f651bc7bd1092cc75dcdc4bcb00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5a2fb6b80000001</sys_recorded_at>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-11 18:42:05</sys_updated_on>
+        <type>Module</type>
+        <u_link>[code]&lt;a title="sys_app_module_4aa82a301b5e315092cc75dcdc4bcb2f" class="linked" href="sys_app_module.do?sys_id=4aa82a301b5e315092cc75dcdc4bcb2f"&gt;sys_app_module_4aa82a301b5e315092cc75dcdc4bcb2f&lt;/a&gt;[/code]</u_link>
+        <update_guid>85041ba1bec7bd103af48a4bfe8d75cc</update_guid>
+        <update_guid_history>85041ba1bec7bd103af48a4bfe8d75cc:-1010076913,8ea82a30bc5e315056ecdc98bd65b033:805598856</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 11-Dec-2023 10:43:23">c85457a51bc7bd1092cc75dcdc4bcb2d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-11 18:43:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1da76223dec24d80a10699203413a400</sys_id>
+        <sys_metadata>4aa82a301b5e315092cc75dcdc4bcb2f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_scope_delete display_value="">3d979570633443ec90f87b3281da18e9</sys_scope_delete>
+        <sys_update_name>sys_app_module_4aa82a301b5e315092cc75dcdc4bcb2f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4aa82a301b5e315092cc75dcdc4bcb2f">41049f651bc7bd1092cc75dcdc4bcb00</sys_update_version>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-11 18:43:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
