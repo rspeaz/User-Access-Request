@@ -17,7 +17,7 @@ answer;]]></condition>
         <conditional>true</conditional>
         <entered_time>1970-01-01 05:00:00</entered_time>
         <max_drift/>
-        <name>SOX Quarterly Oracle ERP User Access Review - 26th day of the 2nd month of the quarter</name>
+        <name>SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</name>
         <offset/>
         <offset_type>0</offset_type>
         <run_as display_value="Robert Spencer (admin.robert)">9861aaf41be701900184a827bc4bcb90</run_as>
@@ -27,37 +27,37 @@ answer;]]></condition>
         <run_period/>
         <run_start>2023-08-22 23:20:10</run_start>
         <run_time>1970-01-01 10:00:00</run_time>
-        <run_type>weekly</run_type>
+        <run_type>monthly</run_type>
         <script><![CDATA[(function() {
 	
 	try {
 
-		// Start Asynchronously: Uncomment to run in background.
-		sn_fd.FlowAPI.getRunner().flow('x_geml_user_access.grc__user_access_request').inBackground().run(); //trigger SOX Quarterly Oracle ERP User Access Review - 26th day of the 2nd month of the quarter
+		sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.workday_change_review').inBackground().run(); //trigger subflow - SOX Quarterly Workday Change Review
 				
-		// Execute Synchronously: Run in foreground.
-		//sn_fd.FlowAPI.getRunner().flow('x_geml_user_access.grc__user_access_request').inForeground().run(); //trigger flow GRC - User Access Request
-		
+		// Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+		//var result = sn_fd.FlowAPI.getRunner().subflow('x_geml_user_access.workday_change_review').inForeground().run();
+		//var outputs = result.getOutputs();
+
 	} catch (ex) {
 		var message = ex.getMessage();
-		gs.error("SOX Quarterly Oracle ERP User Access Review: " + message);
+		gs.error("SOX Quarterly Workday Change Review: " + message);
 	}
 	
 })();]]></script>
         <sys_class_name>sysauto_script</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-08-22 23:21:51</sys_created_on>
+        <sys_created_on>2023-12-11 18:45:47</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>943ba00e1b34b9107bd542addc4bcbbc</sys_id>
-        <sys_mod_count>11</sys_mod_count>
-        <sys_name>SOX Quarterly Oracle ERP User Access Review - 26th day of the 2nd month of the quarter</sys_name>
+        <sys_id>13d41ba51bc7bd1092cc75dcdc4bcbfe</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</sys_name>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name>sysauto_script_943ba00e1b34b9107bd542addc4bcbbc</sys_update_name>
+        <sys_update_name>sysauto_script_13d41ba51bc7bd1092cc75dcdc4bcbfe</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-12 00:08:48</sys_updated_on>
+        <sys_updated_on>2023-12-11 19:04:40</sys_updated_on>
         <time_zone>US/Eastern</time_zone>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>

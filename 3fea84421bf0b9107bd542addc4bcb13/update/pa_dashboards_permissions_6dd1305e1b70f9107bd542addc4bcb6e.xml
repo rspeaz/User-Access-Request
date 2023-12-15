@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
     <pa_dashboards_permissions action="INSERT_OR_UPDATE">
-        <dashboard display_value="User Access Request">441fa8ce1b34b9107bd542addc4bcb83</dashboard>
+        <dashboard display_value="SOX Quarterly Review">441fa8ce1b34b9107bd542addc4bcb83</dashboard>
         <delete>false</delete>
         <group display_value="IT - GRC" name="IT - GRC">71430120db1bf7802f2d65494b9619e7</group>
         <identity>71430120db1bf7802f2d65494b9619e7</identity>
