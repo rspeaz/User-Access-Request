@@ -4,7 +4,7 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=456141000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=981771000,viewActivatedIn=naturalLanguage</attributes>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from>95b1791c1b4e79107bd542addc4bcb06</copied_from>
@@ -14,7 +14,7 @@
 Triggered by scheduled job: 
 SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</description>
         <internal_name>workday_change_review</internal_name>
-        <label_cache>[{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.description","label":"4 - Create Task➛UAR Task Record➛Description","reference":"","reference_display":"Description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"description"},{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.short_description","label":"4 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.number","label":"4 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record","label":"2 - Create Task➛User Access Review UAR Record","reference":"x_geml_user_access_user_access_request_uar","reference_display":"User Access Review UAR","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record.number","label":"2 - Create Task➛User Access Review UAR Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_user_access_request_uar","column_name":"number"},{"name":"e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record.short_description","label":"2 - Create Task➛User Access Review UAR Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_user_access_request_uar","column_name":"short_description"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.email.direct","label":"1➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.email.body","label":"1➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.email.body_text","label":"1➛email➛Body text","reference":"","reference_display":"Body text","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"sys_email","column_name":"body_text"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message","label":"1➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.due_date","label":"4 - Create Task➛UAR Task Record➛Due date","reference":"","reference_display":"Due date","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_geml_user_access_uar_task","column_name":"due_date"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.direct","label":"1 - Send Email➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body","label":"1 - Send Email➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body_text","label":"1 - Send Email➛email➛Body text","reference":"","reference_display":"Body text","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"sys_email","column_name":"body_text"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message","label":"1 - Send Email➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}}]</label_cache>
+        <label_cache>[{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body","label":"1 - Send Email➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"390e0ef1-127a-408f-ba1c-db136ab507ff.Record.due_date","label":"4 - Create Task➛UAR Task Record➛Due date","reference":"","reference_display":"Due date","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_geml_user_access_uar_task","column_name":"due_date"},{"name":"e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record","label":"2 - Create Task➛User Access Review UAR Record","reference":"x_geml_user_access_user_access_request_uar","reference_display":"User Access Review UAR","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.email.direct","label":"1➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message","label":"1➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.due_date","label":"4 - Create Task➛UAR Task Record➛Due date","reference":"","reference_display":"Due date","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_geml_user_access_uar_task","column_name":"due_date"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.direct","label":"1 - Send Email➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message","label":"1 - Send Email➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}}]</label_cache>
         <master_snapshot>29d1c0601bcbb5107bd542addc4bcb60</master_snapshot>
         <name>SOX Quarterly Workday Change Review</name>
         <natlang/>
@@ -33,7 +33,7 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>06e6af581b0bb5107bd542addc4bcbb8</sys_id>
-        <sys_mod_count>40</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>SOX Quarterly Workday Change Review</sys_name>
         <sys_overrides/>
         <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
@@ -42,7 +42,7 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_hub_flow_06e6af581b0bb5107bd542addc4bcbb8</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:41</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:13</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_variable_value action="delete_multiple" query="document_key=06e6af581b0bb5107bd542addc4bcbb8"/>
@@ -71,7 +71,115 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
     <sys_hub_flow_input action="delete_multiple" query="model=06e6af581b0bb5107bd542addc4bcbb8"/>
     <sys_hub_flow_output action="delete_multiple" query="model=06e6af581b0bb5107bd542addc4bcbb8"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=06e6af581b0bb5107bd542addc4bcbb8"/>
-    <sys_hub_action_instance action="delete_multiple" query="flow=06e6af581b0bb5107bd542addc4bcbb8^sys_idNOT IN15107f941b4bb5107bd542addc4bcbc2,1ee6af581b0bb5107bd542addc4bcbd7,26e6ef581b0bb5107bd542addc4bcbd9,3de033181b4bb5107bd542addc4bcba6,5ae6af581b0bb5107bd542addc4bcbf3,6ae6ef581b0bb5107bd542addc4bcb74,7c996f5c1b0bb5107bd542addc4bcb7a,b5e033181b4bb5107bd542addc4bcbc6,d05f735c1b8bb5107bd542addc4bcb9f,d24c2f501b4bb5107bd542addc4bcbf1,e317bf101b8bb5107bd542addc4bcb34,fee6ef581b0bb5107bd542addc4bcbf0"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=06e6af581b0bb5107bd542addc4bcbb8^sys_idNOT IN020802cc1bdb351092cc75dcdc4bcb11,15107f941b4bb5107bd542addc4bcbc2,1ee6af581b0bb5107bd542addc4bcbd7,3de033181b4bb5107bd542addc4bcba6,6ae6ef581b0bb5107bd542addc4bcb74,7c996f5c1b0bb5107bd542addc4bcb7a,b5e033181b4bb5107bd542addc4bcbc6,d05f735c1b8bb5107bd542addc4bcb9f,d24c2f501b4bb5107bd542addc4bcbf1,e317bf101b8bb5107bd542addc4bcb34,fee6ef581b0bb5107bd542addc4bcbf0"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
+        <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <attributes/>
+        <comment>Management Review - IT - GRC</comment>
+        <display_text/>
+        <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
+        <order>10</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:34:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>020802cc1bdb351092cc75dcdc4bcb11</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:13</sys_updated_on>
+        <ui_id>949dc22a-5e6c-40ec-afac-c505822bdd6f</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=020802cc1bdb351092cc75dcdc4bcb11"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>020802cc1bdb351092cc75dcdc4bcb11</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:34:55</sys_created_on>
+        <sys_id>020802cc1bdb351092cc75dcdc4bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:34:55</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>020802cc1bdb351092cc75dcdc4bcb11</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:34:55</sys_created_on>
+        <sys_id>c60802cc1bdb351092cc75dcdc4bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:34:55</sys_updated_on>
+        <value>x_geml_user_access_uar_task</value>
+        <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=020802cc1bdb351092cc75dcdc4bcb11"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>020802cc1bdb351092cc75dcdc4bcb11</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:34:55</sys_created_on>
+        <sys_id>8e0802cc1bdb351092cc75dcdc4bcb12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:34:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value>parent={{e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record}}^assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}^short_description=QA all tasks and completed Workbook^description=Management Review ^due_date=fd-scripted^uar_type=workday_change</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>020802cc1bdb351092cc75dcdc4bcb11</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:34:55</sys_created_on>
+        <sys_id>ca0802cc1bdb351092cc75dcdc4bcb12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:34:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>020802cc1bdb351092cc75dcdc4bcb11</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:34:55</sys_created_on>
+        <sys_id>0a0802cc1bdb351092cc75dcdc4bcb12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:34:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=020802cc1bdb351092cc75dcdc4bcb11^sys_idNOT INc20802cc1bdb351092cc75dcdc4bcb12"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>field_values</input_name>
+        <instance>020802cc1bdb351092cc75dcdc4bcb11</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"due_date":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\n//due 4th week of the 4th month of the quarter\n\nvar gd \u003d new GlideDate(); \ngd.setValue(gs.endOfThisQuarter()); //returns the first day of next quarter\ngd.addDaysLocalTime(-1); //returns the last day of this quarter\nreturn(gd.getByFormat(\"dd-MMM-yyyy\"));","savedValue":""}}</script>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:34:55</sys_created_on>
+        <sys_id>c20802cc1bdb351092cc75dcdc4bcb12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:34:55</sys_updated_on>
+    </sys_hub_input_scripts>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=020802cc1bdb351092cc75dcdc4bcb11"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -81,22 +189,22 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <comment>Review Completed. Review all Change comments - SNOW_WORKDAY_HR_UAR</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
-        <order>8</order>
+        <order>7</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-07 23:32:19</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>15107f941b4bb5107bd542addc4bcbc2</sys_id>
-        <sys_mod_count>68</sys_mod_count>
+        <sys_mod_count>88</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:13</sys_updated_on>
         <ui_id>6c1044c7-b188-4f8b-9230-76b00bf6e4cc</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=15107f941b4bb5107bd542addc4bcbc2"/>
@@ -196,15 +304,15 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <sys_created_on>2023-12-07 22:52:14</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>1ee6af581b0bb5107bd542addc4bcbd7</sys_id>
-        <sys_mod_count>80</sys_mod_count>
+        <sys_mod_count>100</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:12</sys_updated_on>
         <ui_id>e04a5245-b83b-451e-a5ed-4ff7ee1896f5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=1ee6af581b0bb5107bd542addc4bcbd7"/>
@@ -216,10 +324,10 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-07 22:52:14</sys_created_on>
         <sys_id>12e6af581b0bb5107bd542addc4bcbdb</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 01:23:54</sys_updated_on>
-        <value>assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}^short_description=Workday SNOW Change Review ^uar_type=workday_change^sys_class_name=x_geml_user_access_user_access_request_uar</value>
+        <sys_updated_on>2023-12-19 07:30:25</sys_updated_on>
+        <value>assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}^short_description=Workday SNOW Change Review ^uar_type=workday_change^sys_class_name=x_geml_user_access_user_access_request_uar^due_date=fd-scripted</value>
         <variable display_value="Field Values">273a6335531003003bf1d9109ec5876b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -237,120 +345,21 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759^id=1ee6af581b0bb5107bd542addc4bcbd7"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=1ee6af581b0bb5107bd542addc4bcbd7"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=1ee6af581b0bb5107bd542addc4bcbd7^sys_idNOT IN44074e4c1bdb351092cc75dcdc4bcb9e"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>field_values</input_name>
+        <instance>1ee6af581b0bb5107bd542addc4bcbd7</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"due_date":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value. \n**Order number is offset by +1 in Error Handling Section.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\n//due 4th week of the 4th month of the quarter\n\nvar gd \u003d new GlideDate(); \ngd.setValue(gs.endOfThisQuarter()); //returns the first day of next quarter\ngd.addDaysLocalTime(-1); //returns the last day of this quarter\nreturn(gd.getByFormat(\"dd-MMM-yyyy\"));","savedValue":""}}</script>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:30:25</sys_created_on>
+        <sys_id>44074e4c1bdb351092cc75dcdc4bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:30:25</sys_updated_on>
+    </sys_hub_input_scripts>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=1ee6af581b0bb5107bd542addc4bcbd7"/>
-    <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
-        <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
-        <action_type_parent display_value="Post a Message">23be39c713e0030039a039ed9344b058</action_type_parent>
-        <attributes/>
-        <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
-        <display_text/>
-        <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
-        <order>11</order>
-        <parent_ui_id/>
-        <sys_class_name>sys_hub_action_instance</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:16</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>26e6ef581b0bb5107bd542addc4bcbd9</sys_id>
-        <sys_mod_count>80</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
-        <ui_id>adfd0188-9ced-42bd-b702-7d9d2b6b1d4d</ui_id>
-    </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=26e6ef581b0bb5107bd542addc4bcbd9"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>26e6ef581b0bb5107bd542addc4bcbd9</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:16</sys_created_on>
-        <sys_id>3ee6ef581b0bb5107bd542addc4bcbdb</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 23:51:50</sys_updated_on>
-        <value>Testing: Workday Change Review Closed</value>
-        <variable display_value="Title">f49822431324030039a039ed9344b0bb</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>26e6ef581b0bb5107bd542addc4bcbd9</document_key>
-        <order>5</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:16</sys_created_on>
-        <sys_id>b2e6ef581b0bb5107bd542addc4bcbdc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 22:52:16</sys_updated_on>
-        <value>894bc4</value>
-        <variable display_value="Theme Color (Hex)">419862431324030039a039ed9344b003</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>26e6ef581b0bb5107bd542addc4bcbd9</document_key>
-        <order>2</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 23:42:29</sys_created_on>
-        <sys_id>c262f3981b4bb5107bd542addc4bcbd5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 23:51:50</sys_updated_on>
-        <value>Workday Change Review Closed</value>
-        <variable display_value="Message">b09822431324030039a039ed9344b0c7</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>26e6ef581b0bb5107bd542addc4bcbd9</document_key>
-        <order>0</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:16</sys_created_on>
-        <sys_id>fee6ef581b0bb5107bd542addc4bcbdb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 22:52:16</sys_updated_on>
-        <value>https://neogenomics.webhook.office.com/webhookb2/3f637721-a6e3-45c2-bf89-3f5d4ea8867e@f75bfca3-0172-486c-b0a6-02ba92e58e36/IncomingWebhook/1f1af59f965544daa9b863463f32fab5/47773396-9461-4e38-a171-6e8028d27c9a</value>
-        <variable display_value="Webhook URL">689822431324030039a039ed9344b088</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_549822431324030039a039ed9344b085^id=26e6ef581b0bb5107bd542addc4bcbd9"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=26e6ef581b0bb5107bd542addc4bcbd9^sys_idNOT IN3ae6ef581b0bb5107bd542addc4bcbda,3ee6ef581b0bb5107bd542addc4bcbda"/>
-    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <input_name>ah_action_url</input_name>
-        <instance>26e6ef581b0bb5107bd542addc4bcbd9</instance>
-        <referenced_table>sys_hub_action_instance</referenced_table>
-        <script>{"ah_action_url":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\nvar instance \u003d gs.getProperty(\u0027instance_name\u0027);\nvar table \u003d fd_data._2__create_task.table;\nvar sox \u003d fd_data._2__create_task.record.sys_id;\n\nvar url \u003d \"http://\" + instance + \".service-now.com/\" + table + \".do?sys_id\u003d\" + uar;\n\nreturn url;"}}</script>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:16</sys_created_on>
-        <sys_id>3ae6ef581b0bb5107bd542addc4bcbda</sys_id>
-        <sys_mod_count>10</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:44</sys_updated_on>
-    </sys_hub_input_scripts>
-    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <input_name>ah_action_name</input_name>
-        <instance>26e6ef581b0bb5107bd542addc4bcbd9</instance>
-        <referenced_table>sys_hub_action_instance</referenced_table>
-        <script>{"ah_action_name":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\nvar number \u003d fd_data._2__create_task.record.number;\n\nreturn \"Workday Change Review \" + number;"}}</script>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:16</sys_created_on>
-        <sys_id>3ee6ef581b0bb5107bd542addc4bcbda</sys_id>
-        <sys_mod_count>9</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:44</sys_updated_on>
-    </sys_hub_input_scripts>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=26e6ef581b0bb5107bd542addc4bcbd9"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -360,22 +369,22 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <comment>Complete Workday Change Review SOX Workbook</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
-        <order>9</order>
+        <order>8</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-07 23:35:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>3de033181b4bb5107bd542addc4bcba6</sys_id>
-        <sys_mod_count>66</sys_mod_count>
+        <sys_mod_count>86</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:13</sys_updated_on>
         <ui_id>a0559af1-aa6a-429a-91a2-c7512d04067d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3de033181b4bb5107bd542addc4bcba6"/>
@@ -464,126 +473,6 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
-        <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
-        <attributes/>
-        <comment>Create &amp; Upload following Reports - SNOW_WORKDAY_HR_UAR</comment>
-        <display_text/>
-        <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
-        <order>4</order>
-        <parent_ui_id/>
-        <sys_class_name>sys_hub_action_instance</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:15</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>5ae6af581b0bb5107bd542addc4bcbf3</sys_id>
-        <sys_mod_count>80</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
-        <ui_id>0975b018-3394-4737-a552-f959261d5c22</ui_id>
-    </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=5ae6af581b0bb5107bd542addc4bcbf3"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>5ae6af581b0bb5107bd542addc4bcbf3</document_key>
-        <order>0</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:15</sys_created_on>
-        <sys_id>1ae6af581b0bb5107bd542addc4bcbf5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 22:52:15</sys_updated_on>
-        <value>x_geml_user_access_uar_task</value>
-        <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>5ae6af581b0bb5107bd542addc4bcbf3</document_key>
-        <order>2</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:15</sys_created_on>
-        <sys_id>56e6af581b0bb5107bd542addc4bcbf5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 23:45:20</sys_updated_on>
-        <value>0</value>
-        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=5ae6af581b0bb5107bd542addc4bcbf3"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>field_values</field>
-        <id>5ae6af581b0bb5107bd542addc4bcbf3</id>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:15</sys_created_on>
-        <sys_id>d2e6af581b0bb5107bd542addc4bcbf5</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 23:15:43</sys_updated_on>
-        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
-        <value>parent={{e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record}}^short_description=Create &amp; Upload Reports^description=Create &amp; Upload the following Reports:
-
-•	Business Process Security Policies w/ Security Groups checked
-•	Domain Security Policies w/ Security Groups checked
-•	Active Employee Listing
-•	Audit Trail – Headcount Summary Report    
-•	Bonus Pool Eligibility Report
-•	Audit Trail – UAR Workday Quarterly Review    
-•	Include C&amp;A screenshots 
-•	Query used to pull the listing
-•	Screenshot of the row count of the records and date with time stamp
-•	Tie the row count on the excel export to the records shown in Workday
-^due_date=fd-scripted^assignment_group={"display":"SNOW_WORKDAY_HR_UAR","value":"4116303e1b92795092cc75dcdc4bcb92","sys_id":"4116303e1b92795092cc75dcdc4bcb92"}^uar_type=workday_change</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>task_table</field>
-        <id>5ae6af581b0bb5107bd542addc4bcbf3</id>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:15</sys_created_on>
-        <sys_id>12e6af581b0bb5107bd542addc4bcbf5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 22:52:15</sys_updated_on>
-        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>wait</field>
-        <id>5ae6af581b0bb5107bd542addc4bcbf3</id>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:15</sys_created_on>
-        <sys_id>5ee6af581b0bb5107bd542addc4bcbf4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 22:52:15</sys_updated_on>
-        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=5ae6af581b0bb5107bd542addc4bcbf3^sys_idNOT IN1ae6af581b0bb5107bd542addc4bcbf4"/>
-    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <input_name>field_values</input_name>
-        <instance>5ae6af581b0bb5107bd542addc4bcbf3</instance>
-        <referenced_table>sys_hub_action_instance</referenced_table>
-        <script>{"due_date":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\n//Due 15th day on 3rd month of quarter\n\nvar gd \u003d new GlideDate(); \ngd.setValue(gs.beginningOfThisQuarter());\ngd.addMonthsLocalTime(2);\ngd.addDaysLocalTime(14);\nreturn(gd.getByFormat(\"dd-MMM-yyyy\"));","savedValue":""}}</script>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-07 22:52:15</sys_created_on>
-        <sys_id>1ae6af581b0bb5107bd542addc4bcbf4</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-07 23:15:43</sys_updated_on>
-    </sys_hub_input_scripts>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=5ae6af581b0bb5107bd542addc4bcbf3"/>
-    <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
-        <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <attributes/>
@@ -597,15 +486,15 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <sys_created_on>2023-12-07 22:52:15</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>6ae6ef581b0bb5107bd542addc4bcb74</sys_id>
-        <sys_mod_count>80</sys_mod_count>
+        <sys_mod_count>100</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:12</sys_updated_on>
         <ui_id>682a3e1d-48a4-4380-85a3-2934e4991686</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=6ae6ef581b0bb5107bd542addc4bcb74"/>
@@ -654,12 +543,14 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-07 22:52:15</sys_created_on>
         <sys_id>a2e6ef581b0bb5107bd542addc4bcb76</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:13:35</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:34:55</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
         <value>work_notes=Subject: Automated SNOW Ticket for Quarterly SOX Workday Change Review
 Email sent to: {{5cfb9195-568b-4e12-885c-993014d3792d.email.direct}}
+
+Message: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body}}
 
 Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</value>
     </sys_element_mapping>
@@ -680,15 +571,15 @@ Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</valu
         <sys_created_on>2023-12-07 23:03:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>7c996f5c1b0bb5107bd542addc4bcb7a</sys_id>
-        <sys_mod_count>78</sys_mod_count>
+        <sys_mod_count>98</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:12</sys_updated_on>
         <ui_id>669c6e16-f638-4ca3-bd96-25abb614cbcd</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7c996f5c1b0bb5107bd542addc4bcb7a"/>
@@ -764,22 +655,22 @@ Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</valu
         <comment>QA all tasks and completed Workbook - IT - GRC</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
-        <order>10</order>
+        <order>9</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-07 23:35:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>b5e033181b4bb5107bd542addc4bcbc6</sys_id>
-        <sys_mod_count>66</sys_mod_count>
+        <sys_mod_count>86</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:13</sys_updated_on>
         <ui_id>7516188e-7ce2-4e9d-92c3-4620f29c1329</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b5e033181b4bb5107bd542addc4bcbc6"/>
@@ -874,22 +765,22 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <comment>Subject: Quarterly Workday Change Review.</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
-        <order>6</order>
+        <order>5</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:38:52</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d05f735c1b8bb5107bd542addc4bcb9f</sys_id>
-        <sys_mod_count>42</sys_mod_count>
+        <sys_mod_count>62</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:12</sys_updated_on>
         <ui_id>2143f189-0d21-4991-99b9-beda3f2f1038</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d05f735c1b8bb5107bd542addc4bcb9f"/>
@@ -942,12 +833,12 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:38:52</sys_created_on>
         <sys_id>505f735c1b8bb5107bd542addc4bcba2</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:20</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:28:51</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>&lt;p class="MsoNormal"&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"&gt;Hello all,&lt;/span&gt;&lt;/p&gt;
-&lt;p style="margin: 0in; margin-bottom: .0001pt;"&gt;&lt;span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"&gt;It is time for the mandatory quarterly SOX Change Review for the Workday application. Please provide your review input by&amp;nbsp;&lt;span class="data_pill  accepts_transform_functions transform_applied" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:b39b9aa5-f372-473b-ad19-1b15b30421d8}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="3 - Create Task &amp;gt; UAR Task Record &amp;gt; Due date"&gt;&lt;span class="pill-start"&gt;3 - Create Task&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;...&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Due date&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_48b1d3ea-77c1-4cfd-94fb-07abf07561ce" class="transform_function_facade transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&amp;nbsp;using the reports provided in SharePoint site &amp;ldquo;&lt;a href="https://neogenomics.sharepoint.com/sites/NEOFinancialSystems/Quarterly%20SOX%20Reviews/Forms/AllItems.aspx?id=%2Fsites%2FNEOFinancialSystems%2FQuarterly%20SOX%20Reviews%2FQtrly%20SOX%20Reviews%2FWorkday%20Reviews&amp;amp;viewid=52b37d2a%2D32dd%2D45f6%2D8f6b%2Dfcfc1593be20"&gt;Workday Reviews&lt;/a&gt;&amp;rdquo;. Change Review instructions can be viewed &lt;a href="https://neogenomics.service-now.com/kb_view.do?sysparm_article=KB0011344"&gt;here&lt;/a&gt;&lt;span style="color: black;"&gt;. The Workday Change Review Checklist can be viewed &lt;a href="https://neogenomics.service-now.com/kb_view.do?sysparm_article=KB0011356"&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin: 0in; margin-bottom: .0001pt;"&gt;&lt;span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"&gt;It is time for the mandatory quarterly SOX Change Review for the Workday application. Please provide your review input by&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3}}"&gt;&lt;span class="data_pill  accepts_transform_functions on_pharmacy_counter transform_applied" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="4 - Create Task &amp;gt; UAR Task Record &amp;gt; Due date"&gt;&lt;span class="pill-start"&gt;4 - Create Task&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;...&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Due date&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3" class="transform_function_facade transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&amp;nbsp;using the reports provided in SharePoint site &amp;ldquo;&lt;a href="https://neogenomics.sharepoint.com/sites/NEOFinancialSystems/Quarterly%20SOX%20Reviews/Forms/AllItems.aspx?id=%2Fsites%2FNEOFinancialSystems%2FQuarterly%20SOX%20Reviews%2FQtrly%20SOX%20Reviews%2FWorkday%20Reviews&amp;amp;viewid=52b37d2a%2D32dd%2D45f6%2D8f6b%2Dfcfc1593be20"&gt;Workday Reviews&lt;/a&gt;&amp;rdquo;. Change Review instructions can be viewed &lt;a href="https://neogenomics.service-now.com/kb_view.do?sysparm_article=KB0011344"&gt;here&lt;/a&gt;&lt;span style="color: black;"&gt;. The Workday Change Review Checklist can be viewed &lt;a href="https://neogenomics.service-now.com/kb_view.do?sysparm_article=KB0011356"&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style="margin: 0in; margin-bottom: .0001pt;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal"&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"&gt;Thank you,&lt;/span&gt;&lt;/p&gt;
 &lt;p class="MsoNormal"&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"&gt;GRC Team&lt;/span&gt;&lt;/p&gt;
@@ -1001,22 +892,22 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <comment>Create &amp; Upload Curated Report to include below columns in Business Process Security and Domain Security Policies reports - SNOW_WORKDAY_HR_UAR</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
-        <order>5</order>
+        <order>4</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-07 23:15:43</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d24c2f501b4bb5107bd542addc4bcbf1</sys_id>
-        <sys_mod_count>72</sys_mod_count>
+        <sys_mod_count>92</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:12</sys_updated_on>
         <ui_id>390e0ef1-127a-408f-ba1c-db136ab507ff</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d24c2f501b4bb5107bd542addc4bcbf1"/>
@@ -1115,22 +1006,22 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <comment>Update Workday Change parent request - email debug</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
-        <order>7</order>
+        <order>6</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:03:03</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>e317bf101b8bb5107bd542addc4bcb34</sys_id>
-        <sys_mod_count>58</sys_mod_count>
+        <sys_mod_count>78</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:12</sys_updated_on>
         <ui_id>cf006543-247d-4558-b71c-c6e22a381592</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e317bf101b8bb5107bd542addc4bcb34"/>
@@ -1179,13 +1070,15 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:03:03</sys_created_on>
         <sys_id>2717bf101b8bb5107bd542addc4bcb36</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:13:35</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:34:55</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
         <value>work_notes=Subject: Quarterly Workday Change Review
 
 Email sent to: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.email.direct}}
+
+Message: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body}}
 
 Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</value>
     </sys_element_mapping>
@@ -1200,22 +1093,22 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <comment/>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</flow>
-        <order>12</order>
+        <order>11</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-07 22:52:16</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>fee6ef581b0bb5107bd542addc4bcbf0</sys_id>
-        <sys_mod_count>80</sys_mod_count>
+        <sys_mod_count>100</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-13 17:33:23</sys_updated_on>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:13</sys_updated_on>
         <ui_id>3a2a6fa5-56ce-4e4b-9e3d-c5bc901e3f97</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fee6ef581b0bb5107bd542addc4bcbf0"/>
@@ -1288,7 +1181,7 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=fee6ef581b0bb5107bd542addc4bcbf0"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=06e6af581b0bb5107bd542addc4bcbb8"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=06e6af581b0bb5107bd542addc4bcbb8"/>
-    <sys_hub_pill_compound action="delete_multiple" query="attached_to=06e6af581b0bb5107bd542addc4bcbb8^sys_idNOT IN066cf3581b8bb5107bd542addc4bcb56,185f735c1b8bb5107bd542addc4bcbae,19107f941b4bb5107bd542addc4bcbe9,545f735c1b8bb5107bd542addc4bcbae,55107f941b4bb5107bd542addc4bcbe9,6b0877901b8bb5107bd542addc4bcb5e,9c5f735c1b8bb5107bd542addc4bcbad,ac8f63941b4bb5107bd542addc4bcb0d,d85f735c1b8bb5107bd542addc4bcbae,e48f63941b4bb5107bd542addc4bcb0e"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=06e6af581b0bb5107bd542addc4bcbb8^sys_idNOT IN066cf3581b8bb5107bd542addc4bcb56,185f735c1b8bb5107bd542addc4bcbae,19107f941b4bb5107bd542addc4bcbe9,545f735c1b8bb5107bd542addc4bcbae,55107f941b4bb5107bd542addc4bcbe9,6b0877901b8bb5107bd542addc4bcb5e,81a6864c1bdb351092cc75dcdc4bcb92,99a6864c1bdb351092cc75dcdc4bcb92,9c5f735c1b8bb5107bd542addc4bcbad,ac8f63941b4bb5107bd542addc4bcb0d,d85f735c1b8bb5107bd542addc4bcbae,e48f63941b4bb5107bd542addc4bcb0e"/>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>06e6af581b0bb5107bd542addc4bcbb8</attached_to>
         <extra_info/>
@@ -1395,6 +1288,40 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <attached_to>06e6af581b0bb5107bd542addc4bcbb8</attached_to>
         <extra_info/>
         <order>0</order>
+        <prescription>{{390e0ef1-127a-408f-ba1c-db136ab507ff.Record.due_date}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:28:51</sys_created_on>
+        <sys_id>81a6864c1bdb351092cc75dcdc4bcb92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:28:51</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>06e6af581b0bb5107bd542addc4bcbb8</attached_to>
+        <extra_info/>
+        <order>1</order>
+        <prescription/>
+        <source_ui_id>b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3</source_ui_id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:28:51</sys_created_on>
+        <sys_id>99a6864c1bdb351092cc75dcdc4bcb92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:28:51</sys_updated_on>
+        <transform_compositions>[{"id":"43c11eb173733300b61e66476bf6a77f","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"duration","label":"Duration","order":0,"attributes":{},"value":"1970-01-08 00:00:00","type":"glide_duration","defaultValue":"","typeLabel":null,"mandatory":true,"choices":[]}]}]</transform_compositions>
+        <transform_definition_id display_value="add_time">b551d6b173733300b61e66476bf6a717</transform_definition_id>
+        <ui_id>e880a87c-80f4-4089-ba7d-1d028bab9c6d</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>06e6af581b0bb5107bd542addc4bcbb8</attached_to>
+        <extra_info/>
+        <order>0</order>
         <prescription>{{0975b018-3394-4737-a552-f959261d5c22.Record.due_date}}</prescription>
         <source_ui_id/>
         <sys_created_by>admin.robert</sys_created_by>
@@ -1469,7 +1396,7 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=1996984000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from>95b1791c1b4e79107bd542addc4bcb06</copied_from>
@@ -1479,7 +1406,7 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
 Triggered by scheduled job: 
 SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</description>
         <internal_name>workday_change_review</internal_name>
-        <label_cache>[{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.description","label":"4 - Create Task➛UAR Task Record➛Description","reference":"","reference_display":"Description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"description"},{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.short_description","label":"4 - Create Task➛UAR Task Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"short_description"},{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.number","label":"4 - Create Task➛UAR Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_uar_task","column_name":"number"},{"name":"e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record","label":"2 - Create Task➛User Access Review UAR Record","reference":"x_geml_user_access_user_access_request_uar","reference_display":"User Access Review UAR","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record.number","label":"2 - Create Task➛User Access Review UAR Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_user_access_request_uar","column_name":"number"},{"name":"e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record.short_description","label":"2 - Create Task➛User Access Review UAR Record➛Short description","reference":"","reference_display":"Short description","type":"string","base_type":"string","parent_table_name":"x_geml_user_access_user_access_request_uar","column_name":"short_description"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.email.direct","label":"1➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.email.body","label":"1➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.email.body_text","label":"1➛email➛Body text","reference":"","reference_display":"Body text","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"sys_email","column_name":"body_text"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message","label":"1➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.due_date","label":"4 - Create Task➛UAR Task Record➛Due date","reference":"","reference_display":"Due date","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_geml_user_access_uar_task","column_name":"due_date"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.direct","label":"1 - Send Email➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body","label":"1 - Send Email➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body_text","label":"1 - Send Email➛email➛Body text","reference":"","reference_display":"Body text","type":"string_full_utf8","base_type":"string_full_utf8","parent_table_name":"sys_email","column_name":"body_text"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message","label":"1 - Send Email➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}}]</label_cache>
+        <label_cache>[{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body","label":"1 - Send Email➛email➛Body","reference":"","reference_display":"Body","type":"html","base_type":"html","parent_table_name":"sys_email","column_name":"body"},{"name":"390e0ef1-127a-408f-ba1c-db136ab507ff.Record.due_date","label":"4 - Create Task➛UAR Task Record➛Due date","reference":"","reference_display":"Due date","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_geml_user_access_uar_task","column_name":"due_date"},{"name":"e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record","label":"2 - Create Task➛User Access Review UAR Record","reference":"x_geml_user_access_user_access_request_uar","reference_display":"User Access Review UAR","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.email.direct","label":"1➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message","label":"1➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}},{"name":"0975b018-3394-4737-a552-f959261d5c22.Record.due_date","label":"4 - Create Task➛UAR Task Record➛Due date","reference":"","reference_display":"Due date","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_geml_user_access_uar_task","column_name":"due_date"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.email.direct","label":"1 - Send Email➛email➛To","reference":"","reference_display":"To","type":"string","base_type":"string","parent_table_name":"sys_email","column_name":"direct"},{"name":"669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message","label":"1 - Send Email➛Action Status➛Message","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{}}]</label_cache>
         <master>true</master>
         <name>SOX Quarterly Workday Change Review</name>
         <natlang/>
@@ -1496,7 +1423,7 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>29d1c0601bcbb5107bd542addc4bcb60</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1505,7 +1432,7 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow_snapshot>
     <sys_variable_value action="delete_multiple" query="document_key=29d1c0601bcbb5107bd542addc4bcb60"/>
@@ -1534,7 +1461,7 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
     <sys_hub_flow_input action="delete_multiple" query="model=29d1c0601bcbb5107bd542addc4bcb60"/>
     <sys_hub_flow_output action="delete_multiple" query="model=29d1c0601bcbb5107bd542addc4bcb60"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=29d1c0601bcbb5107bd542addc4bcb60"/>
-    <sys_hub_action_instance action="delete_multiple" query="flow=29d1c0601bcbb5107bd542addc4bcb60^sys_idNOT IN39d1c0601bcbb5107bd542addc4bcbc3,3dd1c0601bcbb5107bd542addc4bcbe9,71d1c0601bcbb5107bd542addc4bcb8f,75d1c0601bcbb5107bd542addc4bcbd5,a1d1c0601bcbb5107bd542addc4bcb6b,b5d1c0601bcbb5107bd542addc4bcb96,b9d1c0601bcbb5107bd542addc4bcbbc,bdd1c0601bcbb5107bd542addc4bcb9c,e1d1c0601bcbb5107bd542addc4bcb73,e9d1c0601bcbb5107bd542addc4bcb79,f1d1c0601bcbb5107bd542addc4bcb80,f9d1c0601bcbb5107bd542addc4bcb86"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=29d1c0601bcbb5107bd542addc4bcb60^sys_idNOT IN39d1c0601bcbb5107bd542addc4bcbc3,3dd1c0601bcbb5107bd542addc4bcbe9,71d1c0601bcbb5107bd542addc4bcb8f,a1d1c0601bcbb5107bd542addc4bcb6b,b5d1c0601bcbb5107bd542addc4bcb96,b9d1c0601bcbb5107bd542addc4bcbbc,bdd1c0601bcbb5107bd542addc4bcb9c,e11882cc1bdb351092cc75dcdc4bcbe0,e1d1c0601bcbb5107bd542addc4bcb73,e9d1c0601bcbb5107bd542addc4bcb79,f9d1c0601bcbb5107bd542addc4bcb86"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -1544,14 +1471,14 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <comment>QA all tasks and completed Workbook - IT - GRC</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
-        <order>10</order>
+        <order>9</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>39d1c0601bcbb5107bd542addc4bcbc3</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1559,7 +1486,7 @@ SOX Quarterly Workday Change Review - 26th day of the 2nd month of the quarter</
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
         <ui_id>7516188e-7ce2-4e9d-92c3-4620f29c1329</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=39d1c0601bcbb5107bd542addc4bcbc3"/>
@@ -1654,14 +1581,14 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <comment/>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
-        <order>12</order>
+        <order>11</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>3dd1c0601bcbb5107bd542addc4bcbe9</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1669,7 +1596,7 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
         <ui_id>3a2a6fa5-56ce-4e4b-9e3d-c5bc901e3f97</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=3dd1c0601bcbb5107bd542addc4bcbe9"/>
@@ -1749,14 +1676,14 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <comment>Subject: Quarterly Workday Change Review.</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
-        <order>6</order>
+        <order>5</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>71d1c0601bcbb5107bd542addc4bcb8f</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -1764,7 +1691,7 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
         <ui_id>2143f189-0d21-4991-99b9-beda3f2f1038</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=71d1c0601bcbb5107bd542addc4bcb8f"/>
@@ -1817,12 +1744,12 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:54</sys_created_on>
         <sys_id>b1d1c0601bcbb5107bd542addc4bcb91</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
         <table>var__m_sys_hub_action_input_c1806bf4a70323008299b39f087901cb</table>
         <value>&lt;p class="MsoNormal"&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"&gt;Hello all,&lt;/span&gt;&lt;/p&gt;
-&lt;p style="margin: 0in; margin-bottom: .0001pt;"&gt;&lt;span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"&gt;It is time for the mandatory quarterly SOX Change Review for the Workday application. Please provide your review input by&amp;nbsp;&lt;span class="data_pill  accepts_transform_functions transform_applied" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:b39b9aa5-f372-473b-ad19-1b15b30421d8}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="3 - Create Task &amp;gt; UAR Task Record &amp;gt; Due date"&gt;&lt;span class="pill-start"&gt;3 - Create Task&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;...&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Due date&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_48b1d3ea-77c1-4cfd-94fb-07abf07561ce" class="transform_function_facade transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&amp;nbsp;using the reports provided in SharePoint site &amp;ldquo;&lt;a href="https://neogenomics.sharepoint.com/sites/NEOFinancialSystems/Quarterly%20SOX%20Reviews/Forms/AllItems.aspx?id=%2Fsites%2FNEOFinancialSystems%2FQuarterly%20SOX%20Reviews%2FQtrly%20SOX%20Reviews%2FWorkday%20Reviews&amp;amp;viewid=52b37d2a%2D32dd%2D45f6%2D8f6b%2Dfcfc1593be20"&gt;Workday Reviews&lt;/a&gt;&amp;rdquo;. Change Review instructions can be viewed &lt;a href="https://neogenomics.service-now.com/kb_view.do?sysparm_article=KB0011344"&gt;here&lt;/a&gt;&lt;span style="color: black;"&gt;. The Workday Change Review Checklist can be viewed &lt;a href="https://neogenomics.service-now.com/kb_view.do?sysparm_article=KB0011356"&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="margin: 0in; margin-bottom: .0001pt;"&gt;&lt;span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"&gt;It is time for the mandatory quarterly SOX Change Review for the Workday application. Please provide your review input by&amp;nbsp;&lt;span class="data_parent_pill" style="display: inline;" contenteditable="false" data-pillvalue="{{fd_transform:b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3}}"&gt;&lt;span class="data_pill  accepts_transform_functions on_pharmacy_counter transform_applied" tabindex="0" contenteditable="false" data-pillvalue="{{fd_transform:b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3}}"&gt;&lt;span class="data-pill-content-container"&gt;&lt;span class="pills"&gt;&lt;span class="pill-text" data-for="ah_tooltipTop" data-tip="4 - Create Task &amp;gt; UAR Task Record &amp;gt; Due date"&gt;&lt;span class="pill-start"&gt;4 - Create Task&lt;/span&gt;&lt;span class="pill-arrow"&gt;&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;...&lt;span class="data-pill-label-caret"&gt;&lt;span class="data-pill-label-arrow"&gt;➛&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="pill-end"&gt;Due date&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;button id="transform_function_facade_b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3" class="transform_function_facade transform_applied"&gt;&lt;span class="inline-script-icon"&gt;&lt;span style="display: none;"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/button&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&amp;nbsp;using the reports provided in SharePoint site &amp;ldquo;&lt;a href="https://neogenomics.sharepoint.com/sites/NEOFinancialSystems/Quarterly%20SOX%20Reviews/Forms/AllItems.aspx?id=%2Fsites%2FNEOFinancialSystems%2FQuarterly%20SOX%20Reviews%2FQtrly%20SOX%20Reviews%2FWorkday%20Reviews&amp;amp;viewid=52b37d2a%2D32dd%2D45f6%2D8f6b%2Dfcfc1593be20"&gt;Workday Reviews&lt;/a&gt;&amp;rdquo;. Change Review instructions can be viewed &lt;a href="https://neogenomics.service-now.com/kb_view.do?sysparm_article=KB0011344"&gt;here&lt;/a&gt;&lt;span style="color: black;"&gt;. The Workday Change Review Checklist can be viewed &lt;a href="https://neogenomics.service-now.com/kb_view.do?sysparm_article=KB0011356"&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style="margin: 0in; margin-bottom: .0001pt;"&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p class="MsoNormal"&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"&gt;Thank you,&lt;/span&gt;&lt;/p&gt;
 &lt;p class="MsoNormal"&gt;&lt;span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"&gt;GRC Team&lt;/span&gt;&lt;/p&gt;
@@ -1869,118 +1796,6 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=71d1c0601bcbb5107bd542addc4bcb8f"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="Post a Message">549822431324030039a039ed9344b085</action_type>
-        <action_type_parent display_value="Post a Message">23be39c713e0030039a039ed9344b058</action_type_parent>
-        <attributes/>
-        <comment>Post a message to the Teams Channel SNOW UAR Testing</comment>
-        <display_text/>
-        <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
-        <order>11</order>
-        <parent_ui_id/>
-        <sys_class_name>sys_hub_action_instance</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:54</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>75d1c0601bcbb5107bd542addc4bcbd5</sys_id>
-        <sys_mod_count>18</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
-        <ui_id>adfd0188-9ced-42bd-b702-7d9d2b6b1d4d</ui_id>
-    </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=75d1c0601bcbb5107bd542addc4bcbd5"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>75d1c0601bcbb5107bd542addc4bcbd5</document_key>
-        <order>1</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:54</sys_created_on>
-        <sys_id>35d1c0601bcbb5107bd542addc4bcbd8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:54</sys_updated_on>
-        <value>Testing: Workday Change Review Closed</value>
-        <variable display_value="Title">f49822431324030039a039ed9344b0bb</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>75d1c0601bcbb5107bd542addc4bcbd5</document_key>
-        <order>2</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:54</sys_created_on>
-        <sys_id>71d1c0601bcbb5107bd542addc4bcbd8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:54</sys_updated_on>
-        <value>Workday Change Review Closed</value>
-        <variable display_value="Message">b09822431324030039a039ed9344b0c7</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>75d1c0601bcbb5107bd542addc4bcbd5</document_key>
-        <order>5</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:54</sys_created_on>
-        <sys_id>b9d1c0601bcbb5107bd542addc4bcbd8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:54</sys_updated_on>
-        <value>894bc4</value>
-        <variable display_value="Theme Color (Hex)">419862431324030039a039ed9344b003</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>75d1c0601bcbb5107bd542addc4bcbd5</document_key>
-        <order>0</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:54</sys_created_on>
-        <sys_id>f5d1c0601bcbb5107bd542addc4bcbd8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:54</sys_updated_on>
-        <value>https://neogenomics.webhook.office.com/webhookb2/3f637721-a6e3-45c2-bf89-3f5d4ea8867e@f75bfca3-0172-486c-b0a6-02ba92e58e36/IncomingWebhook/1f1af59f965544daa9b863463f32fab5/47773396-9461-4e38-a171-6e8028d27c9a</value>
-        <variable display_value="Webhook URL">689822431324030039a039ed9344b088</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_549822431324030039a039ed9344b085^id=75d1c0601bcbb5107bd542addc4bcbd5"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=75d1c0601bcbb5107bd542addc4bcbd5^sys_idNOT IN79d1c0601bcbb5107bd542addc4bcbd6,7dd1c0601bcbb5107bd542addc4bcbd6"/>
-    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <input_name>ah_action_url</input_name>
-        <instance>75d1c0601bcbb5107bd542addc4bcbd5</instance>
-        <referenced_table>sys_hub_action_instance</referenced_table>
-        <script>{"ah_action_url":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\nvar instance \u003d gs.getProperty(\u0027instance_name\u0027);\nvar table \u003d fd_data._2__create_task.table;\nvar sox \u003d fd_data._2__create_task.record.sys_id;\n\nvar url \u003d \"http://\" + instance + \".service-now.com/\" + table + \".do?sys_id\u003d\" + uar;\n\nreturn url;"}}</script>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:54</sys_created_on>
-        <sys_id>79d1c0601bcbb5107bd542addc4bcbd6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:54</sys_updated_on>
-    </sys_hub_input_scripts>
-    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <input_name>ah_action_name</input_name>
-        <instance>75d1c0601bcbb5107bd542addc4bcbd5</instance>
-        <referenced_table>sys_hub_action_instance</referenced_table>
-        <script>{"ah_action_name":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\nvar number \u003d fd_data._2__create_task.record.number;\n\nreturn \"Workday Change Review \" + number;"}}</script>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:54</sys_created_on>
-        <sys_id>7dd1c0601bcbb5107bd542addc4bcbd6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:54</sys_updated_on>
-    </sys_hub_input_scripts>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=75d1c0601bcbb5107bd542addc4bcbd5"/>
-    <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <attributes/>
@@ -1994,7 +1809,7 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <sys_created_on>2023-12-08 00:49:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>a1d1c0601bcbb5107bd542addc4bcb6b</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -2002,7 +1817,7 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
         <ui_id>669c6e16-f638-4ca3-bd96-25abb614cbcd</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=a1d1c0601bcbb5107bd542addc4bcb6b"/>
@@ -2078,14 +1893,14 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <comment>Update Workday Change parent request - email debug</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
-        <order>7</order>
+        <order>6</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>b5d1c0601bcbb5107bd542addc4bcb96</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -2093,7 +1908,7 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
         <ui_id>cf006543-247d-4558-b71c-c6e22a381592</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b5d1c0601bcbb5107bd542addc4bcb96"/>
@@ -2142,13 +1957,15 @@ QA all tasks and completed Workbook. Coordinate any internal auditor reviews ^du
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:54</sys_created_on>
         <sys_id>b9d1c0601bcbb5107bd542addc4bcb97</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:54</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
         <value>work_notes=Subject: Quarterly Workday Change Review
 
 Email sent to: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.email.direct}}
+
+Message: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body}}
 
 Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</value>
     </sys_element_mapping>
@@ -2163,14 +1980,14 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <comment>Complete Workday Change Review SOX Workbook</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
-        <order>9</order>
+        <order>8</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>b9d1c0601bcbb5107bd542addc4bcbbc</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -2178,7 +1995,7 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
         <ui_id>a0559af1-aa6a-429a-91a2-c7512d04067d</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b9d1c0601bcbb5107bd542addc4bcbbc"/>
@@ -2273,14 +2090,14 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <comment>Review Completed. Review all Change comments - SNOW_WORKDAY_HR_UAR</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
-        <order>8</order>
+        <order>7</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>bdd1c0601bcbb5107bd542addc4bcb9c</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -2288,7 +2105,7 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
         <ui_id>6c1044c7-b188-4f8b-9230-76b00bf6e4cc</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=bdd1c0601bcbb5107bd542addc4bcb9c"/>
@@ -2375,6 +2192,114 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=bdd1c0601bcbb5107bd542addc4bcb9c"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
+        <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
+        <attributes/>
+        <comment>Management Review - IT - GRC</comment>
+        <display_text/>
+        <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
+        <order>10</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:09</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e11882cc1bdb351092cc75dcdc4bcbe0</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
+        <ui_id>949dc22a-5e6c-40ec-afac-c505822bdd6f</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e11882cc1bdb351092cc75dcdc4bcbe0"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e11882cc1bdb351092cc75dcdc4bcbe0</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:09</sys_created_on>
+        <sys_id>a11882cc1bdb351092cc75dcdc4bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
+        <value>x_geml_user_access_uar_task</value>
+        <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e11882cc1bdb351092cc75dcdc4bcbe0</document_key>
+        <order>2</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:09</sys_created_on>
+        <sys_id>ed1882cc1bdb351092cc75dcdc4bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
+        <value>1</value>
+        <variable display_value="Wait">ff3a6335531003003bf1d9109ec58777</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=e11882cc1bdb351092cc75dcdc4bcbe0"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>field_values</field>
+        <id>e11882cc1bdb351092cc75dcdc4bcbe0</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:09</sys_created_on>
+        <sys_id>6d1882cc1bdb351092cc75dcdc4bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value>parent={{e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record}}^assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}^short_description=QA all tasks and completed Workbook^description=Management Review ^due_date=fd-scripted^uar_type=workday_change</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>task_table</field>
+        <id>e11882cc1bdb351092cc75dcdc4bcbe0</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:09</sys_created_on>
+        <sys_id>a91882cc1bdb351092cc75dcdc4bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>wait</field>
+        <id>e11882cc1bdb351092cc75dcdc4bcbe0</id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:09</sys_created_on>
+        <sys_id>e51882cc1bdb351092cc75dcdc4bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=e11882cc1bdb351092cc75dcdc4bcbe0^sys_idNOT INa11882cc1bdb351092cc75dcdc4bcbe1"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>field_values</input_name>
+        <instance>e11882cc1bdb351092cc75dcdc4bcbe0</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"due_date":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\n//due 4th week of the 4th month of the quarter\n\nvar gd \u003d new GlideDate(); \ngd.setValue(gs.endOfThisQuarter()); //returns the first day of next quarter\ngd.addDaysLocalTime(-1); //returns the last day of this quarter\nreturn(gd.getByFormat(\"dd-MMM-yyyy\"));","savedValue":""}}</script>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:09</sys_created_on>
+        <sys_id>a11882cc1bdb351092cc75dcdc4bcbe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
+    </sys_hub_input_scripts>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=e11882cc1bdb351092cc75dcdc4bcbe0"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
         <attributes/>
@@ -2388,7 +2313,7 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <sys_created_on>2023-12-08 00:49:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>e1d1c0601bcbb5107bd542addc4bcb73</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -2396,7 +2321,7 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
         <ui_id>e04a5245-b83b-451e-a5ed-4ff7ee1896f5</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e1d1c0601bcbb5107bd542addc4bcb73"/>
@@ -2408,10 +2333,10 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:53</sys_created_on>
         <sys_id>21d1c0601bcbb5107bd542addc4bcb75</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 01:24:07</sys_updated_on>
-        <value>assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}^short_description=Workday SNOW Change Review ^uar_type=workday_change^sys_class_name=x_geml_user_access_user_access_request_uar</value>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
+        <value>assignment_group={"display":"IT - GRC","value":"71430120db1bf7802f2d65494b9619e7","sys_id":"71430120db1bf7802f2d65494b9619e7"}^short_description=Workday SNOW Change Review ^uar_type=workday_change^sys_class_name=x_geml_user_access_user_access_request_uar^due_date=fd-scripted</value>
         <variable display_value="Field Values">273a6335531003003bf1d9109ec5876b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -2429,7 +2354,20 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759^id=e1d1c0601bcbb5107bd542addc4bcb73"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=e1d1c0601bcbb5107bd542addc4bcb73"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=e1d1c0601bcbb5107bd542addc4bcb73^sys_idNOT INa91882cc1bdb351092cc75dcdc4bcbce"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>field_values</input_name>
+        <instance>e1d1c0601bcbb5107bd542addc4bcb73</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"due_date":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value. \n**Order number is offset by +1 in Error Handling Section.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\n//due 4th week of the 4th month of the quarter\n\nvar gd \u003d new GlideDate(); \ngd.setValue(gs.endOfThisQuarter()); //returns the first day of next quarter\ngd.addDaysLocalTime(-1); //returns the last day of this quarter\nreturn(gd.getByFormat(\"dd-MMM-yyyy\"));","savedValue":""}}</script>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:09</sys_created_on>
+        <sys_id>a91882cc1bdb351092cc75dcdc4bcbce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
+    </sys_hub_input_scripts>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=e1d1c0601bcbb5107bd542addc4bcb73"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
@@ -2447,7 +2385,7 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <sys_created_on>2023-12-08 00:49:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>e9d1c0601bcbb5107bd542addc4bcb79</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -2455,7 +2393,7 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
         <ui_id>682a3e1d-48a4-4380-85a3-2934e4991686</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e9d1c0601bcbb5107bd542addc4bcb79"/>
@@ -2504,12 +2442,14 @@ Status: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.__action_status__.message}}</valu
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:53</sys_created_on>
         <sys_id>edd1c0601bcbb5107bd542addc4bcb7a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:53</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:09</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
         <value>work_notes=Subject: Automated SNOW Ticket for Quarterly SOX Workday Change Review
 Email sent to: {{5cfb9195-568b-4e12-885c-993014d3792d.email.direct}}
+
+Message: {{669c6e16-f638-4ca3-bd96-25abb614cbcd.email.body}}
 
 Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</value>
     </sys_element_mapping>
@@ -2521,111 +2461,17 @@ Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</valu
         <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
         <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
         <attributes/>
-        <comment>Create &amp; Upload following Reports - SNOW_WORKDAY_HR_UAR</comment>
+        <comment>Create &amp; Upload Curated Report to include below columns in Business Process Security and Domain Security Policies reports - SNOW_WORKDAY_HR_UAR</comment>
         <display_text/>
         <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
         <order>4</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:53</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>f1d1c0601bcbb5107bd542addc4bcb80</sys_id>
-        <sys_mod_count>18</sys_mod_count>
-        <sys_name/>
-        <sys_package/>
-        <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
-        <sys_update_name/>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
-        <ui_id>0975b018-3394-4737-a552-f959261d5c22</ui_id>
-    </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=f1d1c0601bcbb5107bd542addc4bcb80"/>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>f1d1c0601bcbb5107bd542addc4bcb80</document_key>
-        <order>0</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:53</sys_created_on>
-        <sys_id>3dd1c0601bcbb5107bd542addc4bcb81</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:53</sys_updated_on>
-        <value>x_geml_user_access_uar_task</value>
-        <variable display_value="Table">e73a6335531003003bf1d9109ec5875c</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=f1d1c0601bcbb5107bd542addc4bcb80"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>field_values</field>
-        <id>f1d1c0601bcbb5107bd542addc4bcb80</id>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:53</sys_created_on>
-        <sys_id>b9d1c0601bcbb5107bd542addc4bcb81</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:53</sys_updated_on>
-        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
-        <value>parent={{e04a5245-b83b-451e-a5ed-4ff7ee1896f5.Record}}^short_description=Create &amp; Upload Reports^description=Create &amp; Upload the following Reports:
-
-•	Business Process Security Policies w/ Security Groups checked
-•	Domain Security Policies w/ Security Groups checked
-•	Active Employee Listing
-•	Audit Trail – Headcount Summary Report    
-•	Bonus Pool Eligibility Report
-•	Audit Trail – UAR Workday Quarterly Review    
-•	Include C&amp;A screenshots 
-•	Query used to pull the listing
-•	Screenshot of the row count of the records and date with time stamp
-•	Tie the row count on the excel export to the records shown in Workday
-^due_date=fd-scripted^assignment_group={"display":"SNOW_WORKDAY_HR_UAR","value":"4116303e1b92795092cc75dcdc4bcb92","sys_id":"4116303e1b92795092cc75dcdc4bcb92"}^uar_type=workday_change</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>task_table</field>
-        <id>f1d1c0601bcbb5107bd542addc4bcb80</id>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:53</sys_created_on>
-        <sys_id>f5d1c0601bcbb5107bd542addc4bcb81</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:53</sys_updated_on>
-        <table>var__m_sys_hub_action_input_2b3a6335531003003bf1d9109ec58759</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=f1d1c0601bcbb5107bd542addc4bcb80^sys_idNOT INb1d1c0601bcbb5107bd542addc4bcb81"/>
-    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
-        <active>true</active>
-        <input_name>field_values</input_name>
-        <instance>f1d1c0601bcbb5107bd542addc4bcb80</instance>
-        <referenced_table>sys_hub_action_instance</referenced_table>
-        <script>{"due_date":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**Available options display upon pressing \".\" after fd_data\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n\n//Due 15th day on 3rd month of quarter\n\nvar gd \u003d new GlideDate(); \ngd.setValue(gs.beginningOfThisQuarter());\ngd.addMonthsLocalTime(2);\ngd.addDaysLocalTime(14);\nreturn(gd.getByFormat(\"dd-MMM-yyyy\"));","savedValue":""}}</script>
-        <sys_created_by>admin.robert</sys_created_by>
-        <sys_created_on>2023-12-08 00:49:53</sys_created_on>
-        <sys_id>b1d1c0601bcbb5107bd542addc4bcb81</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-08 00:49:53</sys_updated_on>
-    </sys_hub_input_scripts>
-    <sys_hub_alias_mapping action="delete_multiple" query="source_id=f1d1c0601bcbb5107bd542addc4bcb80"/>
-    <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
-        <action_inputs/>
-        <action_type display_value="Create Task">2b3a6335531003003bf1d9109ec58759</action_type>
-        <action_type_parent display_value="Create Task">3f9b1ff1531003003bf1d9109ec58775</action_type_parent>
-        <attributes/>
-        <comment>Create &amp; Upload Curated Report to include below columns in Business Process Security and Domain Security Policies reports - SNOW_WORKDAY_HR_UAR</comment>
-        <display_text/>
-        <flow display_value="SOX Quarterly Workday Change Review">29d1c0601bcbb5107bd542addc4bcb60</flow>
-        <order>5</order>
-        <parent_ui_id/>
-        <sys_class_name>sys_hub_action_instance</sys_class_name>
-        <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>f9d1c0601bcbb5107bd542addc4bcb86</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -2633,7 +2479,7 @@ Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</valu
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:38</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
         <ui_id>390e0ef1-127a-408f-ba1c-db136ab507ff</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f9d1c0601bcbb5107bd542addc4bcb86"/>
@@ -2699,7 +2545,7 @@ Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</valu
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=f9d1c0601bcbb5107bd542addc4bcb86"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=29d1c0601bcbb5107bd542addc4bcb60"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=29d1c0601bcbb5107bd542addc4bcb60"/>
-    <sys_hub_pill_compound action="delete_multiple" query="attached_to=29d1c0601bcbb5107bd542addc4bcb60^sys_idNOT IN42d1c0601bcbb5107bd542addc4bcbed,4ed1c0601bcbb5107bd542addc4bcbec,71d1c0601bcbb5107bd542addc4bcbec,75d1c0601bcbb5107bd542addc4bcbec,79d1c0601bcbb5107bd542addc4bcbec,ced1c0601bcbb5107bd542addc4bcbec,f1d1c0601bcbb5107bd542addc4bcbec,f5d1c0601bcbb5107bd542addc4bcbec,f9d1c0601bcbb5107bd542addc4bcbeb,f9d1c0601bcbb5107bd542addc4bcbec"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=29d1c0601bcbb5107bd542addc4bcb60^sys_idNOT IN42d1c0601bcbb5107bd542addc4bcbed,4ed1c0601bcbb5107bd542addc4bcbec,71d1c0601bcbb5107bd542addc4bcbec,75d1c0601bcbb5107bd542addc4bcbec,79d1c0601bcbb5107bd542addc4bcbec,b11882cc1bdb351092cc75dcdc4bcbfc,bd1882cc1bdb351092cc75dcdc4bcbfc,ced1c0601bcbb5107bd542addc4bcbec,f1d1c0601bcbb5107bd542addc4bcbec,f5d1c0601bcbb5107bd542addc4bcbec,f9d1c0601bcbb5107bd542addc4bcbeb,f9d1c0601bcbb5107bd542addc4bcbec"/>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>29d1c0601bcbb5107bd542addc4bcb60</attached_to>
         <extra_info/>
@@ -2784,6 +2630,40 @@ Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</valu
         <transform_compositions>[]</transform_compositions>
         <transform_definition_id/>
         <ui_id>c464dcff-3f3f-492b-907a-26aef4a4a6c5</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>29d1c0601bcbb5107bd542addc4bcb60</attached_to>
+        <extra_info/>
+        <order>1</order>
+        <prescription/>
+        <source_ui_id>b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3</source_ui_id>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:10</sys_created_on>
+        <sys_id>b11882cc1bdb351092cc75dcdc4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
+        <transform_compositions>[{"id":"43c11eb173733300b61e66476bf6a77f","transformType":null,"transformDefinition":null,"order":0,"parameters":[{"id":null,"name":"duration","label":"Duration","order":0,"attributes":{},"value":"1970-01-08 00:00:00","type":"glide_duration","defaultValue":"","typeLabel":null,"mandatory":true,"choices":[]}]}]</transform_compositions>
+        <transform_definition_id display_value="add_time">b551d6b173733300b61e66476bf6a717</transform_definition_id>
+        <ui_id>e880a87c-80f4-4089-ba7d-1d028bab9c6d</ui_id>
+    </sys_hub_pill_compound>
+    <sys_hub_pill_compound action="INSERT_OR_UPDATE">
+        <attached_to>29d1c0601bcbb5107bd542addc4bcb60</attached_to>
+        <extra_info/>
+        <order>0</order>
+        <prescription>{{390e0ef1-127a-408f-ba1c-db136ab507ff.Record.due_date}}</prescription>
+        <source_ui_id/>
+        <sys_created_by>admin.robert</sys_created_by>
+        <sys_created_on>2023-12-19 07:35:10</sys_created_on>
+        <sys_id>bd1882cc1bdb351092cc75dcdc4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_updated_by>admin.robert</sys_updated_by>
+        <sys_updated_on>2023-12-19 07:35:10</sys_updated_on>
+        <transform_compositions>[]</transform_compositions>
+        <transform_definition_id/>
+        <ui_id>b1aec9b6-a341-4c8b-b4d5-a3b7c8e49bb3</ui_id>
     </sys_hub_pill_compound>
     <sys_hub_pill_compound action="INSERT_OR_UPDATE">
         <attached_to>29d1c0601bcbb5107bd542addc4bcb60</attached_to>
@@ -2878,21 +2758,21 @@ Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</valu
     <sys_hub_flow action="UPDATE">
         <sys_id>06e6af581b0bb5107bd542addc4bcbb8</sys_id>
         <latest_snapshot>29d1c0601bcbb5107bd542addc4bcb60</latest_snapshot>
-        <compiler_build>glide-vancouver-07-06-2023__patch4-11-02-2023_11-14-2023_1911.zip</compiler_build>
+        <compiler_build>glide-vancouver-07-06-2023__patch5-12-01-2023_12-11-2023_2006.zip</compiler_build>
     </sys_hub_flow>
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=06e6af581b0bb5107bd542addc4bcbb8"/>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=06e6af581b0bb5107bd542addc4bcbb8^sys_idNOT IN96d104601bcbb5107bd542addc4bcb51"/>
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
-        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"96d104601bcbb5107bd542addc4bcb51","name":"plan","plan_signature":null}}</plan>
+        <plan>com.snc.process_flow.engine.ProcessPlan@c9ea99</plan>
         <plan_id display_value="SOX Quarterly Workday Change Review">06e6af581b0bb5107bd542addc4bcbb8</plan_id>
-        <snapshot>06771d921b47b15092cc75dcdc4bcbb9</snapshot>
+        <snapshot>29d1c0601bcbb5107bd542addc4bcb60</snapshot>
         <sys_class_name>sys_flow_subflow_plan</sys_class_name>
         <sys_created_by>admin.robert</sys_created_by>
         <sys_created_on>2023-12-08 00:49:56</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>96d104601bcbb5107bd542addc4bcb51</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -2901,6 +2781,6 @@ Status: {{5cfb9195-568b-4e12-885c-993014d3792d.__action_status__.message}}</valu
         <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin.robert</sys_updated_by>
-        <sys_updated_on>2023-12-13 05:34:40</sys_updated_on>
+        <sys_updated_on>2023-12-19 07:35:12</sys_updated_on>
     </sys_flow_subflow_plan>
 </record_update>
