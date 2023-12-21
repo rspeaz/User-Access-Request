@@ -108,10 +108,10 @@
             <sys_id>5539cf771b3cf91092cc75dcdc4bcbce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>task</sys_name>
-            <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+            <sys_package display_value="SOX Quarterly Reviews" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-            <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+            <sys_scope display_value="SOX Quarterly Reviews">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
             <sys_update_name>sys_ui_list_task_x_geml_user_access_user_access_request_uar_uar_tasks</sys_update_name>
             <sys_updated_by>admin.robert</sys_updated_by>
             <sys_updated_on>2023-08-28 21:19:56</sys_updated_on>

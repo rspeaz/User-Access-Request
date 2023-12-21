@@ -7,10 +7,10 @@
         <sys_id>0511d8861bf0b9107bd542addc4bcbe1</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>x_geml_user_access_uar_task.x_geml_user_access.grc_uar</sys_name>
-        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_package display_value="SOX Quarterly Reviews" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_scope display_value="SOX Quarterly Reviews">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_security_acl display_value="x_geml_user_access_uar_task">4511d8861bf0b9107bd542addc4bcbde</sys_security_acl>
         <sys_update_name>sys_security_acl_role_0511d8861bf0b9107bd542addc4bcbe1</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>

@@ -19,7 +19,7 @@
     </sys_grid_canvas>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</application>
+        <application display_value="SOX Quarterly Reviews">3fea84421bf0b9107bd542addc4bcb13</application>
         <file_path/>
         <instance_id>13972a0b6f2869004c327b2f5d3ee410</instance_id>
         <instance_name>neogenomicsdev</instance_name>
@@ -54,11 +54,11 @@
         <sys_metadata>84fd66861b07715092cc75dcdc4bcbb4</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>PA SOX Quarterly Review - New Tab 3</sys_name>
-        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_package display_value="SOX Quarterly Reviews" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_parent/>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_scope display_value="SOX Quarterly Reviews">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_scope_delete display_value="">3d979570633443ec90f87b3281da18e9</sys_scope_delete>
         <sys_update_name>sys_grid_canvas_84fd66861b07715092cc75dcdc4bcbb4</sys_update_name>
         <sys_update_version display_value="sys_grid_canvas_84fd66861b07715092cc75dcdc4bcbb4">4cfd66861b07715092cc75dcdc4bcbb6</sys_update_version>

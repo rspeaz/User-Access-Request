@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-12-21 01:33:04">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2023-12-21 01:36:51">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -14,10 +14,10 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>PA New Tab</sys_name>
         <sys_overrides/>
-        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_package display_value="SOX Quarterly Reviews" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_scope display_value="SOX Quarterly Reviews">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_portal_page_2fd9998b1b4331107bd542addc4bcb4a</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
         <sys_updated_on>2023-12-16 01:39:18</sys_updated_on>

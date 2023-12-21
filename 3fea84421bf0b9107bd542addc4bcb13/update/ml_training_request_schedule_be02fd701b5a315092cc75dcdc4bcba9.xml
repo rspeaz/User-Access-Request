@@ -28,10 +28,10 @@
         <sys_id>be02fd701b5a315092cc75dcdc4bcba9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Similar Open Incidents (last 1 month)</sys_name>
-        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_package display_value="SOX Quarterly Reviews" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_scope display_value="SOX Quarterly Reviews">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>ml_training_request_schedule_be02fd701b5a315092cc75dcdc4bcba9</sys_update_name>
         <sys_updated_by>adm_rspencer</sys_updated_by>
         <sys_updated_on>2023-11-01 20:51:31</sys_updated_on>

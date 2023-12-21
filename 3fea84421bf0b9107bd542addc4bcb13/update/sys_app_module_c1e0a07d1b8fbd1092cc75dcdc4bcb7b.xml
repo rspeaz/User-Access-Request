@@ -33,10 +33,10 @@
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Closed Tasks</sys_name>
         <sys_overrides/>
-        <sys_package display_value="User Access Request UAR" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
+        <sys_package display_value="SOX Quarterly Reviews" source="x_geml_user_access">3fea84421bf0b9107bd542addc4bcb13</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="User Access Request UAR">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
+        <sys_scope display_value="SOX Quarterly Reviews">3fea84421bf0b9107bd542addc4bcb13</sys_scope>
         <sys_update_name>sys_app_module_c1e0a07d1b8fbd1092cc75dcdc4bcb7b</sys_update_name>
         <sys_updated_by>admin.robert</sys_updated_by>
         <sys_updated_on>2023-12-13 05:03:51</sys_updated_on>
